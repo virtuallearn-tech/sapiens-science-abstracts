@@ -7,9 +7,9 @@ $$
 a_{n} = a_1 \cdot q^{\,n-1}
 $$
 
-- \(a_1\) → primeiro termo  
-- \(q\) → razão (multiplicativa)  
-- \(a_n\) → enésimo termo
+- $a_1$ → primeiro termo  
+- $q$ → razão (multiplicativa)  
+- $a_n$ → enésimo termo
 
 ---
 
@@ -19,7 +19,7 @@ a_n = a_1 \cdot q^{\,n-1}
 $$
 
 - Permite calcular qualquer termo da PG sem listar todos os anteriores  
-- Exemplo: \(a_1 = 2, q = 3\), 5º termo:  
+- Exemplo: $a_1 = 2, q = 3$, 5º termo:  
 $$
 a_5 = 2 \cdot 3^{5-1} = 2 \cdot 81 = 162
 $$
@@ -39,13 +39,13 @@ $$
 ---
 
 ## 4. Soma da PG infinita
-- Para \( |q| < 1 \), a soma infinita é:
+- Para $ |q| < 1 $, a soma infinita é:
 
 $$
 S_\infty = \frac{a_1}{1 - q}
 $$
 
-- Exemplo: \(a_1 = 5, q = 0,5 \Rightarrow S_\infty = \frac{5}{1 - 0,5} = 10\)
+- Exemplo: $a_1 = 5, q = 0,5 \Rightarrow S_\infty = \frac{5}{1 - 0,5} = 10$
 
 ---
 
@@ -63,9 +63,9 @@ $$
 ---
 
 ## 6. Tipos de PG
-- **Crescente:** \(q > 1\)  
-- **Decrescente:** \(0 < q < 1\)  
-- **Oscilante:** \(q < 0\) (sinal alterna)  
+- **Crescente:** $q > 1$  
+- **Decrescente:** $0 < q < 1$  
+- **Oscilante:** $q < 0$ (sinal alterna)  
 
 ---
 
@@ -77,15 +77,15 @@ $$
 ---
 
 ## 8. Exemplos
-1. \(3, 6, 12, 24, \dots\) → \(a_1 = 3, q = 2\)  
-2. \(81, 27, 9, 3, \dots\) → \(a_1 = 81, q = 1/3\)
+1. $3, 6, 12, 24, \dots$ → $a_1 = 3, q = 2$  
+2. $81, 27, 9, 3, \dots$ → $a_1 = 81, q = 1/3$
 
 ---
 
 ## 9. Resumo Final
-- PG: sequência com razão constante \(q\)  
-- Fórmula do n-ésimo termo: \(a_n = a_1 \cdot q^{n-1}\)  
-- Soma dos n primeiros termos: \(S_n = a_1 \frac{q^n - 1}{q-1}\)  
-- PG infinita: \(S_\infty = a_1 / (1 - q)\) para \(|q| < 1\)  
+- PG: sequência com razão constante $q$  
+- Fórmula do n-ésimo termo: $a_n = a_1 \cdot q^{n-1}$  
+- Soma dos n primeiros termos: $S_n = a_1 \frac{q^n - 1}{q-1}$  
+- PG infinita: $S_\infty = a_1 / (1 - q)$ para $|q| < 1$  
 - Crescente, decrescente ou oscilante  
 - Aplicações em **matemática financeira, física, economia e ENEM**

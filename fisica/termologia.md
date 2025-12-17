@@ -26,9 +26,9 @@ $$
 \Delta L = L_0 \alpha \Delta T
 $$
 
-- \(L_0\) = comprimento inicial  
-- \(\alpha\) = coeficiente de dilatação linear  
-- \(\Delta T\) = variação de temperatura
+- $L_0$ = comprimento inicial  
+- $\alpha$ = coeficiente de dilatação linear  
+- $\Delta T$ = variação de temperatura
 
 ### 3.2. Superficial
 $$
@@ -49,9 +49,9 @@ $$
 Q = mc\Delta T
 $$
 
-- \(m\) = massa  
-- \(c\) = calor específico  
-- \(\Delta T\) = variação de temperatura  
+- $m$ = massa  
+- $c$ = calor específico  
+- $\Delta T$ = variação de temperatura  
 
 **Unidade:** Joule (J)
 
@@ -63,7 +63,7 @@ $$
 Q = mL
 $$
 
-- \(L\) = calor latente
+- $L$ = calor latente
   - fusão
   - solidificação
   - vaporização

@@ -7,17 +7,17 @@ $$
 P(A) = \frac{\text{número de casos favoráveis}}{\text{número de casos possíveis}}
 $$
 
-- Evento \(A\) → resultado que desejamos analisar  
-- Caso favorável → resultados que satisfazem \(A\)  
+- Evento $A$ → resultado que desejamos analisar  
+- Caso favorável → resultados que satisfazem $A$  
 - Caso possível → todos os resultados possíveis do experimento
 
 ---
 
 ## 2. Propriedades
-1. \(0 \le P(A) \le 1\)  
-2. Evento certo: \(P(A) = 1\)  
-3. Evento impossível: \(P(A) = 0\)  
-4. Complemento de \(A\):  
+1. $0 \le P(A) \le 1$  
+2. Evento certo: $P(A) = 1$  
+3. Evento impossível: $P(A) = 0$  
+4. Complemento de $A$:  
 $$
 P(\bar{A}) = 1 - P(A)
 $$
@@ -83,6 +83,6 @@ $$
 
 ## 8. Resumo Final
 - Probabilidade: medida da chance de um evento  
-- Fórmula básica: \(P(A) = \frac{\text{favoráveis}}{\text{possíveis}}\)  
+- Fórmula básica: $P(A) = \frac{\text{favoráveis}}{\text{possíveis}}$  
 - Eventos simples e compostos  
 - Aplicações práticas e ENEM

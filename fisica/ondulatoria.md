@@ -25,11 +25,11 @@ Ondulatória é a área da física que estuda **ondas e vibrações**, responsá
 ## 3. Características das Ondas
 | Grandeza | Símbolo | Unidade |
 |----------|---------|---------|
-| Comprimento de onda | \(\lambda\) | m |
-| Frequência | \(f\) | Hz |
-| Período | \(T\) | s |
-| Velocidade | \(v\) | m/s |
-| Amplitude | \(A\) | m |
+| Comprimento de onda | $\lambda$ | m |
+| Frequência | $f$ | Hz |
+| Período | $T$ | s |
+| Velocidade | $v$ | m/s |
+| Amplitude | $A$ | m |
 
 Relação entre velocidade, frequência e comprimento:
 $$
@@ -95,9 +95,9 @@ $$
 f' = f \frac{v \pm v_o}{v \mp v_f}
 $$
 
-- \(v\) = velocidade do som no meio  
-- \(v_o\) = velocidade do observador  
-- \(v_f\) = velocidade da fonte  
+- $v$ = velocidade do som no meio  
+- $v_o$ = velocidade do observador  
+- $v_f$ = velocidade da fonte  
 
 ---
 
@@ -114,6 +114,6 @@ $$
 ## 11. Resumo Final
 - Ondas transportam **energia**, não matéria
 - Classificação: mecânica, eletromagnética, transversa, longitudinal
-- Velocidade: \(v = \lambda \cdot f\)
+- Velocidade: $v = \lambda \cdot f$
 - Fenômenos: reflexão, refração, difração, interferência, polarização
 - Aplicações práticas e observáveis no cotidiano

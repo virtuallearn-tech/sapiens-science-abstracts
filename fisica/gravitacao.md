@@ -3,10 +3,10 @@
 ## 1. Leis de Kepler (movimento dos planetas)
 - **1ª Lei (Lei das Órbitas):** planetas descrevem órbitas elípticas com o **Sol em um dos focos**.  
 - **2ª Lei (Lei das Áreas):** o segmento que une planeta e Sol **varre áreas iguais em tempos iguais** → velocidade varia.
-- **3ª Lei (Lei dos Períodos):** \(\frac{T^2}{R^3} = k\), onde:
-  - \(T\) = período orbital
-  - \(R\) = raio médio da órbita
-  - \(k\) = constante para cada sistema
+- **3ª Lei (Lei dos Períodos):** $\frac{T^2}{R^3} = k$, onde:
+  - $T$ = período orbital
+  - $R$ = raio médio da órbita
+  - $k$ = constante para cada sistema
 
 ## 2. Lei da Gravitação Universal (Newton)
 $$
@@ -14,10 +14,10 @@ F = G \frac{m_1 m_2}{r^2}
 $$
 
 Onde:  
-- \(F\) = força gravitacional  
-- \(G = 6,67 \times 10^{-11}\) (SI)  
-- \(m_1, m_2\) = massas  
-- \(r\) = distância entre os centros  
+- $F$ = força gravitacional  
+- $G = 6,67 \times 10^{-11}$ (SI)  
+- $m_1, m_2$ = massas  
+- $r$ = distância entre os centros  
 
 📌 **Força sempre atrativa.**
 
@@ -29,7 +29,7 @@ g = G \frac{M}{r^2}
 $$
 
 Unidade: **m/s²**  
-Na superfície da Terra: **\(g ≈ 9,8\)**.
+Na superfície da Terra: **$g ≈ 9,8$**.
 
 ## 4. Peso e aceleração gravitacional
 $$
@@ -69,7 +69,7 @@ $$
 v_{orb} = \sqrt{\frac{GM}{R}}
 $$
 
-- Quanto maior \(R\), **menor a velocidade orbital**.
+- Quanto maior $R$, **menor a velocidade orbital**.
 - Período também aumenta.
 
 ## 8. Gravidade e microgravidade

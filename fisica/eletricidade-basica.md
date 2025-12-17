@@ -22,8 +22,8 @@ $$
 F = k \frac{|q_1 q_2|}{r^2}
 $$
 
-- \(k \approx 9 \times 10^9 \, N\cdot m^2/C^2\)  
-- \(r\) = distância entre cargas  
+- $k \approx 9 \times 10^9 \, N\cdot m^2/C^2$  
+- $r$ = distância entre cargas  
 - **Força atrativa ou repulsiva** dependendo do sinal
 
 ---
@@ -34,9 +34,9 @@ $$
 I = \frac{Q}{t}
 $$
 
-- \(I\) = corrente (A)  
-- \(Q\) = carga (C)  
-- \(t\) = tempo (s)  
+- $I$ = corrente (A)  
+- $Q$ = carga (C)  
+- $t$ = tempo (s)  
 
 Direção convencional: do **polo positivo para o negativo**.
 
@@ -48,9 +48,9 @@ $$
 V = \frac{W}{Q}
 $$
 
-- \(V\) = volts (V)  
-- \(W\) = trabalho realizado (J)  
-- \(Q\) = carga (C)
+- $V$ = volts (V)  
+- $W$ = trabalho realizado (J)  
+- $Q$ = carga (C)
 
 ---
 
@@ -60,7 +60,7 @@ $$
 R = \frac{V}{I}
 $$
 
-- Lei de Ohm: \(V = R \cdot I\)  
+- Lei de Ohm: $V = R \cdot I$  
 - Unidade: Ohm (Ω)  
 - Depende de material, comprimento e área do condutor
 
@@ -106,7 +106,7 @@ $$
 E = \frac{F}{q} = k \frac{Q}{r^2}
 $$
 
-- \(E\) = vetor do campo (N/C)  
+- $E$ = vetor do campo (N/C)  
 - Direção: mesma da força sobre carga positiva
 
 ---
@@ -130,7 +130,7 @@ $$
 - Corrente: fluxo de elétrons  
 - Tensão: energia por carga  
 - Resistência: oposição à corrente  
-- Lei de Ohm: \(V = R I\)  
+- Lei de Ohm: $V = R I$  
 - Associação de resistores: série e paralelo  
-- Potência e energia: \(P = VI\), \(E = P t\)  
+- Potência e energia: $P = VI$, $E = P t$  
 - Campo elétrico e segurança são essenciais no dia a dia

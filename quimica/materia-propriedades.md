@@ -93,9 +93,9 @@ d = \frac{m}{V}
 $$
 
 Onde:
-- \( d \) = densidade
-- \( m \) = massa
-- \( V \) = volume
+- $ d $ = densidade
+- $ m $ = massa
+- $ V $ = volume
 
 ---
 

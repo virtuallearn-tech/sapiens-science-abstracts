@@ -11,7 +11,7 @@ Geometria Plana estuda **figuras bidimensionais**, suas propriedades, medidas e 
 - **Triângulo:** soma dos ângulos internos = 180°  
 - **Quadriláteros:** soma dos ângulos internos = 360°  
 - **Polígonos regulares:** todos os lados e ângulos iguais  
-  - Ângulo interno: \(\alpha = \frac{(n-2)\cdot 180°}{n}\), \(n\) = número de lados
+  - Ângulo interno: $\alpha = \frac{(n-2)\cdot 180°}{n}$, $n$ = número de lados
 
 ---
 
@@ -50,8 +50,8 @@ $$
 
 ## 4. Perímetro
 - Soma dos lados da figura  
-- Ex.: Triângulo: \(P = a + b + c\)  
-- Quadrado: \(P = 4L\)
+- Ex.: Triângulo: $P = a + b + c$  
+- Quadrado: $P = 4L$
 
 ---
 
@@ -68,7 +68,7 @@ $$
 ---
 
 ## 6. Relações Importantes
-- Teorema de Pitágoras: \(h^2 = a^2 + b^2\) em triângulos retângulos  
+- Teorema de Pitágoras: $h^2 = a^2 + b^2$ em triângulos retângulos  
 - Semelhança de triângulos: razões entre lados correspondentes iguais
 
 ---

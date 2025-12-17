@@ -10,7 +10,7 @@ Trigonometria é a **parte da matemática que estuda relações entre os ângulo
 ---
 
 ## 2. Funções Trigonométricas no Triângulo Retângulo
-Para um ângulo \(\theta\):
+Para um ângulo $\theta$:
 
 $$
 \sin \theta = \frac{\text{cateto oposto}}{\text{hipotenusa}}
@@ -39,9 +39,9 @@ $$
 ---
 
 ## 4. Identidades Básicas
-1. Cotangente: \(\cot \theta = \frac{1}{\tan \theta} = \frac{\cos \theta}{\sin \theta}\)  
-2. Secante: \(\sec \theta = \frac{1}{\cos \theta}\)  
-3. Cossecante: \(\csc \theta = \frac{1}{\sin \theta}\)
+1. Cotangente: $\cot \theta = \frac{1}{\tan \theta} = \frac{\cos \theta}{\sin \theta}$  
+2. Secante: $\sec \theta = \frac{1}{\cos \theta}$  
+3. Cossecante: $\csc \theta = \frac{1}{\sin \theta}$
 
 ---
 
@@ -67,12 +67,12 @@ $$
 $$
 \sin \theta = \frac{6}{10} = 0,6
 $$  
-2. \(\tan 45^\circ = 1\) → cateto oposto = cateto adjacente
+2. $\tan 45^\circ = 1$ → cateto oposto = cateto adjacente
 
 ---
 
 ## 8. Resumo Final
-- Funções básicas: \(\sin, \cos, \tan\)  
-- Relação fundamental: \(\sin^2 \theta + \cos^2 \theta = 1\)  
+- Funções básicas: $\sin, \cos, \tan$  
+- Relação fundamental: $\sin^2 \theta + \cos^2 \theta = 1$  
 - Triângulos retângulos: base da trigonometria  
 - Aplicações práticas e ENEM

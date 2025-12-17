@@ -48,10 +48,10 @@ $$
 N = N_0 \cdot \left( \frac{1}{2} \right)^{t/T_{1/2}}
 $$
 
-- \(N_0\) = núcleos iniciais  
-- \(N\) = núcleos restantes  
-- \(t\) = tempo decorrido  
-- \(T_{1/2}\) = meia-vida
+- $N_0$ = núcleos iniciais  
+- $N$ = núcleos restantes  
+- $t$ = tempo decorrido  
+- $T_{1/2}$ = meia-vida
 
 ---
 
@@ -62,7 +62,7 @@ $$
 A = \lambda N
 $$
 
-- \(\lambda\) = constante de decaimento  
+- $\lambda$ = constante de decaimento  
 - Unidade: Becquerel (Bq)
 
 ---

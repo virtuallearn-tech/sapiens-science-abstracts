@@ -8,7 +8,7 @@ $$
 $$
 
 - Símbolo: %  
-- Exemplo: 20% de 200 = \(200 \cdot 0,2 = 40\)
+- Exemplo: 20% de 200 = $200 \cdot 0,2 = 40$
 
 ---
 
@@ -17,13 +17,13 @@ $$
 $$
 \text{Valor} \times \frac{\%}{100}
 $$  
-Ex.: 15% de 80 → \(80 \cdot 0,15 = 12\)
+Ex.: 15% de 80 → $80 \cdot 0,15 = 12$
 
 2. **Porcentagem entre valores**:
 $$
 \frac{\text{Parte}}{\text{Total}} \times 100\%
 $$  
-Ex.: Se 30 de 150 alunos são meninas → \(\frac{30}{150} \cdot 100 = 20\%\)
+Ex.: Se 30 de 150 alunos são meninas → $\frac{30}{150} \cdot 100 = 20\%$
 
 ---
 
@@ -37,7 +37,7 @@ $$
 \text{Valor final} = \text{Valor inicial} \cdot \left(1 - \frac{\%}{100}\right)
 $$
 
-Ex.: R$200 com 10% de desconto → \(200 \cdot 0,9 = 180\)
+Ex.: R$200 com 10% de desconto → $200 \cdot 0,9 = 180$
 
 ---
 
@@ -51,7 +51,7 @@ $$
 M = P \cdot (1 + i)^t
 $$  
 
-- \(P\) = principal, \(i\) = taxa, \(t\) = tempo, \(M\) = montante
+- $P$ = principal, $i$ = taxa, $t$ = tempo, $M$ = montante
 
 ---
 

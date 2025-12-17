@@ -18,9 +18,9 @@ $$
 \vec{F} = q \, \vec{v} \times \vec{B}
 $$
 
-- \(q\) = carga (C)  
-- \(\vec{v}\) = velocidade (m/s)  
-- \(\vec{B}\) = campo magnético (T, Tesla)  
+- $q$ = carga (C)  
+- $\vec{v}$ = velocidade (m/s)  
+- $\vec{B}$ = campo magnético (T, Tesla)  
 - Força perpendicular à velocidade e ao campo
 
 ---
@@ -32,7 +32,7 @@ $$
 \oint \vec{B} \cdot d\vec{l} = \mu_0 I
 $$
 
-- \(\mu_0 = 4\pi \times 10^{-7} \, T·m/A\)
+- $\mu_0 = 4\pi \times 10^{-7} \, T·m/A$
 
 ---
 
@@ -54,7 +54,7 @@ $$
 \varepsilon = - \frac{d\Phi_B}{dt}
 $$
 
-- \(\Phi_B = B \cdot A \cdot \cos \theta\)  
+- $\Phi_B = B \cdot A \cdot \cos \theta$  
 - Base para **geradores e transformadores**
 
 ---
@@ -75,9 +75,9 @@ $$
 \vec{F} = I \, \vec{L} \times \vec{B}
 $$
 
-- \(I\) = corrente no fio  
-- \(L\) = comprimento do fio dentro do campo  
-- \(B\) = campo magnético
+- $I$ = corrente no fio  
+- $L$ = comprimento do fio dentro do campo  
+- $B$ = campo magnético
 
 ---
 
@@ -93,7 +93,7 @@ Aplicações:
 
 ## 10. Ondas Eletromagnéticas
 - Propagam-se **no vácuo**  
-- **Velocidade da luz:** \(c = 3 \times 10^8 \, m/s\)  
+- **Velocidade da luz:** $c = 3 \times 10^8 \, m/s$  
 - Tipos: rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios X, raios gama
 
 ---

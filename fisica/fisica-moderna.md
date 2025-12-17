@@ -11,7 +11,7 @@ Física Moderna aborda fenômenos **não explicados pela física clássica**, su
 ---
 
 ## 2. Relatividade Restrita (Einstein, 1905)
-- Base: velocidade da luz \(c\) constante em qualquer referencial  
+- Base: velocidade da luz $c$ constante em qualquer referencial  
 - Consequências:
   - **Dilatação do tempo:**  
     $$
@@ -34,7 +34,7 @@ Física Moderna aborda fenômenos **não explicados pela física clássica**, su
 $$
 E = h \cdot f
 $$
-- \(h = 6,626 \times 10^{-34} \, J \cdot s\) (constante de Planck)  
+- $h = 6,626 \times 10^{-34} \, J \cdot s$ (constante de Planck)  
 - Exemplos: fótons, elétrons, níveis de energia atômica
 
 ---
@@ -53,14 +53,14 @@ $$
 $$
 E_{elétron} = h f - \phi
 $$
-- \(\phi\) = função trabalho do metal  
+- $\phi$ = função trabalho do metal  
 - Base para células fotovoltaicas
 
 ---
 
 ## 6. Estrutura Atômica Moderna
 - Modelo de **Bohr** e orbitais quânticos
-- Níveis de energia discretos (\(n = 1,2,3,\dots\))
+- Níveis de energia discretos ($n = 1,2,3,\dots$)
 - Saltos de energia → emissão ou absorção de fótons
 
 ---
@@ -69,9 +69,9 @@ $$
 - Núcleo formado por prótons e nêutrons
 - Força nuclear mantém núcleo coeso
 - Radioatividade:
-  - Alfa (\(\alpha\)) → 2p + 2n
-  - Beta (\(\beta\)) → elétron ou pósitron
-  - Gama (\(\gamma\)) → radiação eletromagnética
+  - Alfa ($\alpha$) → 2p + 2n
+  - Beta ($\beta$) → elétron ou pósitron
+  - Gama ($\gamma$) → radiação eletromagnética
 
 ---
 

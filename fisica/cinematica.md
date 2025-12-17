@@ -7,10 +7,10 @@ Estuda: **posição, velocidade, aceleração, tempo e trajetória**.
 ---
 
 ## 2. Posição, Deslocamento e Distância
-### 🔹 Posição (\(s\))
+### 🔹 Posição ($s$)
 É a localização de um corpo em relação a um **referencial**.
 
-### 🔹 Deslocamento (\(\Delta s\))
+### 🔹 Deslocamento ($\Delta s$)
 Diferença entre posição final e inicial:
 $$
 \Delta s = s_f - s_i
@@ -41,8 +41,8 @@ $$
 a = \frac{\Delta v}{\Delta t}
 $$
 
-Se \(a>0\): movimento acelerado.  
-Se \(a<0\): movimento retardado (desaceleração).
+Se $a>0$: movimento acelerado.  
+Se $a<0$: movimento retardado (desaceleração).
 
 ---
 
@@ -61,8 +61,8 @@ $$
 Velocidade média = velocidade constante.
 
 Gráficos:
-- \(s \times t\): reta inclinada
-- \(v \times t\): reta horizontal
+- $s \times t$: reta inclinada
+- $v \times t$: reta horizontal
 
 ---
 
@@ -85,13 +85,13 @@ v^2 = v_0^2 + 2a\Delta s
 $$
 
 Gráficos:
-- \(v \times t\): reta inclinada
-- área sob o gráfico \(v \times t\): deslocamento
+- $v \times t$: reta inclinada
+- área sob o gráfico $v \times t$: deslocamento
 
 ---
 
 ## 5.3. Queda Livre e Lançamento Vertical
-- aceleração constante \(g \approx 9{,}8\,\text{m/s}^2\) (em módulo)
+- aceleração constante $g \approx 9{,}8\,\text{m/s}^2$ (em módulo)
 - sem resistência do ar
 
 Para queda (sentido para baixo):
@@ -115,8 +115,8 @@ $$
 
 ## 5.4. Movimento Circular
 Grandezas circulares:
-- posição angular (\(\theta\))
-- velocidade angular (\(\omega\))
+- posição angular ($\theta$)
+- velocidade angular ($\omega$)
 - aceleração centrípeta
 
 $$
@@ -166,8 +166,8 @@ $$
 - áreas podem representar deslocamento
 
 Ex.:
-- área em \(v \times t\) = deslocamento
-- área em \(a \times t\) = variação de velocidade
+- área em $v \times t$ = deslocamento
+- área em $a \times t$ = variação de velocidade
 
 ---
 
@@ -197,9 +197,9 @@ $$
 
 ## 11. Resumo Final
 - Cinemática descreve o movimento.
-- MRU: \(a=0\), \(s = s_0 + vt\).
+- MRU: $a=0$, $s = s_0 + vt$.
 - MRUV: aceleração constante, 3 equações essenciais.
-- Queda livre: aceleração \(g\).
+- Queda livre: aceleração $g$.
 - Lançamento oblíquo exige trigonometria.
 - Gráficos mandam no ENEM.
 

@@ -7,18 +7,18 @@ A análise dimensional é uma ferramenta da física que permite **verificar a co
 
 ## 2. Grandezas e Unidades
 - **Fundamentais:**  
-  - Comprimento (\(L\)) – metro (m)  
-  - Massa (\(M\)) – quilograma (kg)  
-  - Tempo (\(T\)) – segundo (s)  
-  - Corrente elétrica (\(I\)) – ampère (A)  
-  - Temperatura (\(\Theta\)) – kelvin (K)  
-  - Quantidade de substância (\(N\)) – mol  
-  - Intensidade luminosa (\(J\)) – candela (cd)
+  - Comprimento ($L$) – metro (m)  
+  - Massa ($M$) – quilograma (kg)  
+  - Tempo ($T$) – segundo (s)  
+  - Corrente elétrica ($I$) – ampère (A)  
+  - Temperatura ($\Theta$) – kelvin (K)  
+  - Quantidade de substância ($N$) – mol  
+  - Intensidade luminosa ($J$) – candela (cd)
 
 - **Derivadas:** combinam grandezas fundamentais  
-  - Velocidade: \(v = L/T\)  
-  - Aceleração: \(a = L/T^2\)  
-  - Força: \(F = M \cdot L / T^2\)
+  - Velocidade: $v = L/T$  
+  - Aceleração: $a = L/T^2$  
+  - Força: $F = M \cdot L / T^2$
 
 ---
 
@@ -29,15 +29,15 @@ $$
 S = v t + \frac{1}{2} a t^2
 $$
 - Verificação:
-  - \(v t \rightarrow (L/T) \cdot T = L\)  
-  - \(\frac{1}{2} a t^2 \rightarrow (L/T^2) \cdot T^2 = L\)  
-- Ambas parcelas têm dimensão \(L\), portanto correta
+  - $v t \rightarrow (L/T) \cdot T = L$  
+  - $\frac{1}{2} a t^2 \rightarrow (L/T^2) \cdot T^2 = L$  
+- Ambas parcelas têm dimensão $L$, portanto correta
 
 ---
 
 ## 4. Conversão de Unidades
 - Transformar unidades de uma grandeza usando **fatores de conversão**  
-- Exemplo: \(1 \text{ km/h} = \frac{1000 \text{ m}}{3600 \text{ s}} \approx 0,278 \text{ m/s}\)
+- Exemplo: $1 \text{ km/h} = \frac{1000 \text{ m}}{3600 \text{ s}} \approx 0,278 \text{ m/s}$
 
 ---
 
@@ -45,14 +45,14 @@ $$
 - Relações físicas podem ser **estimadas** usando dimensões  
 - Método da análise dimensional:
   1. Identificar grandezas relevantes  
-  2. Representar cada grandeza em termos de \(M, L, T\)  
+  2. Representar cada grandeza em termos de $M, L, T$  
   3. Encontrar combinação que respeite dimensões
 
-Exemplo: período de um pêndulo \(T \sim \sqrt{\frac{L}{g}}\)  
-- \(T\) → \(T\)  
-- \(L\) → \(L\)  
-- \(g\) → \(L/T^2\)  
-- Dimensionalmente: \(\sqrt{L / (L/T^2)} = \sqrt{T^2} = T\) ✅
+Exemplo: período de um pêndulo $T \sim \sqrt{\frac{L}{g}}$  
+- $T$ → $T$  
+- $L$ → $L$  
+- $g$ → $L/T^2$  
+- Dimensionalmente: $\sqrt{L / (L/T^2)} = \sqrt{T^2} = T$ ✅
 
 ---
 
@@ -66,6 +66,6 @@ Exemplo: período de um pêndulo \(T \sim \sqrt{\frac{L}{g}}\)
 
 ## 7. Resumo Final
 - Análise dimensional garante **consistência de equações**  
-- Usa símbolos fundamentais: \(M, L, T, I, \Theta, N, J\)  
+- Usa símbolos fundamentais: $M, L, T, I, \Theta, N, J$  
 - Permite conversão de unidades e previsão de fórmulas  
 - Essencial para ENEM, problemas de física experimental e engenharia

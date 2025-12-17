@@ -7,8 +7,8 @@ $$
 f(x) = \log_a(x), \quad a > 0, \, a \neq 1, \, x > 0
 $$
 
-- \(a\) → base do logaritmo  
-- \(x\) → argumento do logaritmo  
+- $a$ → base do logaritmo  
+- $x$ → argumento do logaritmo  
 - Relação com exponencial:  
 $$
 y = \log_a(x) \iff a^y = x
@@ -17,10 +17,10 @@ $$
 ---
 
 ## 2. Domínio e Contradomínio
-- Domínio: \(x > 0\)  
-- Contradomínio: todos os números reais (\(\mathbb{R}\))  
-- Intercepto com x: \(f(1) = 0\)  
-- Assíntota vertical: \(x = 0\)
+- Domínio: $x > 0$  
+- Contradomínio: todos os números reais ($\mathbb{R}$)  
+- Intercepto com x: $f(1) = 0$  
+- Assíntota vertical: $x = 0$
 
 ---
 
@@ -58,10 +58,10 @@ $$
 ---
 
 ## 4. Gráfico da Função Logarítmica
-- Crescente se \(a > 1\)  
-- Decrescente se \(0 < a < 1\)  
-- Passa pelo ponto \((1,0)\)  
-- Assíntota vertical: eixo y (\(x = 0\))
+- Crescente se $a > 1$  
+- Decrescente se $0 < a < 1$  
+- Passa pelo ponto $(1,0)$  
+- Assíntota vertical: eixo y ($x = 0$)
 
 ---
 
@@ -74,13 +74,13 @@ $$
 ---
 
 ## 6. Exemplos
-1. \(f(x) = \log_2(x)\) → crescente  
-2. \(f(x) = \log_{1/3}(x)\) → decrescente
+1. $f(x) = \log_2(x)$ → crescente  
+2. $f(x) = \log_{1/3}(x)$ → decrescente
 
 ---
 
 ## 7. Resumo Final
-- Função logarítmica: inversa da exponencial \(y = \log_a(x)\)  
+- Função logarítmica: inversa da exponencial $y = \log_a(x)$  
 - Propriedades: produto, quociente, potência, mudança de base  
 - Crescente ou decrescente dependendo da base  
 - Intercepto x = 1, assíntota x = 0  

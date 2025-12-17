@@ -15,9 +15,9 @@ $$
 a + b = c
 $$  
 - Propriedades:
-  - Comutativa: \(a + b = b + a\)  
-  - Associativa: \((a + b) + c = a + (b + c)\)  
-  - Elemento neutro: \(a + 0 = a\)
+  - Comutativa: $a + b = b + a$  
+  - Associativa: $(a + b) + c = a + (b + c)$  
+  - Elemento neutro: $a + 0 = a$
 
 ---
 
@@ -26,8 +26,8 @@ $$
 $$
 a - b = c
 $$  
-- Não é comutativa: \(a - b \neq b - a\)  
-- Relação com adição: \(a - b = a + (-b)\)
+- Não é comutativa: $a - b \neq b - a$  
+- Relação com adição: $a - b = a + (-b)$
 
 ---
 
@@ -37,10 +37,10 @@ $$
 a \times b = c
 $$  
 - Propriedades:
-  - Comutativa: \(a \times b = b \times a\)  
-  - Associativa: \((a \times b) \times c = a \times (b \times c)\)  
-  - Elemento neutro: \(a \times 1 = a\)  
-  - Elemento absorvente: \(a \times 0 = 0\)
+  - Comutativa: $a \times b = b \times a$  
+  - Associativa: $(a \times b) \times c = a \times (b \times c)$  
+  - Elemento neutro: $a \times 1 = a$  
+  - Elemento absorvente: $a \times 0 = 0$
 
 ---
 
@@ -50,16 +50,16 @@ $$
 a \div b = c, \quad b \neq 0
 $$  
 - Não é comutativa nem associativa  
-- Relação com multiplicação: \(a = b \times c\)
+- Relação com multiplicação: $a = b \times c$
 
 ---
 
 ## 6. Prioridade de Operações
 - Ordem correta para cálculos:  
-1. Parênteses \(( )\)  
-2. Expoentes \(a^n\)  
-3. Multiplicação e divisão \((\times, ÷)\)  
-4. Adição e subtração \((+, -)\)
+1. Parênteses $( )$  
+2. Expoentes $a^n$  
+3. Multiplicação e divisão $(\times, ÷)$  
+4. Adição e subtração $(+, -)$
 
 Exemplo:  
 $$
@@ -86,9 +86,9 @@ $$
 
 ## 8. Operações com Números Negativos
 - Regras básicas:
-  - \(+ \cdot + = +\)  
-  - \(+ \cdot - = -\)  
-  - \(- \cdot - = +\)  
+  - $+ \cdot + = +$  
+  - $+ \cdot - = -$  
+  - $- \cdot - = +$  
   - Adição: sinais iguais → soma e mantém sinal, sinais diferentes → subtração e mantém sinal do maior
 
 ---

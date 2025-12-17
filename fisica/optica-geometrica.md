@@ -26,9 +26,9 @@ $$
 n_1 \sin \theta_1 = n_2 \sin \theta_2
 $$
 
-- \(n\) = índice de refração  
-- Maior \(n\) → luz se aproxima da normal  
-- Menor \(n\) → luz se afasta da normal
+- $n$ = índice de refração  
+- Maior $n$ → luz se aproxima da normal  
+- Menor $n$ → luz se afasta da normal
 
 ### Fenômenos
 - Prisma → decomposição da luz (espectro)
@@ -45,9 +45,9 @@ $$
 \frac{1}{f} = \frac{1}{p} + \frac{1}{q}
 $$
 
-- \(f\) = distância focal  
-- \(p\) = objeto  
-- \(q\) = imagem  
+- $f$ = distância focal  
+- $p$ = objeto  
+- $q$ = imagem  
 
 ---
 
@@ -116,6 +116,6 @@ $$
 - Luz: **propagação retilínea**
 - Reflexão: lei dos ângulos  
 - Refração: Snell e índice de refração  
-- Espelhos e lentes: equação \(\frac{1}{f} = \frac{1}{p} + \frac{1}{q}\)  
+- Espelhos e lentes: equação $\frac{1}{f} = \frac{1}{p} + \frac{1}{q}$  
 - Formação de imagens: real ou virtual, direita ou invertida  
 - Fenômenos importantes: dispersão, fibra óptica, instrumentos

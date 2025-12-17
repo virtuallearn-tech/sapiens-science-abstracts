@@ -47,9 +47,9 @@ C = \frac{m}{V}
 $$
 
 Onde:
-- \( C \) = concentração (g/L)
-- \( m \) = massa do soluto (g)
-- \( V \) = volume da solução (L)
+- $ C $ = concentração (g/L)
+- $ m $ = massa do soluto (g)
+- $ V $ = volume da solução (L)
 
 ---
 
@@ -60,9 +60,9 @@ M = \frac{n}{V}
 $$
 
 Onde:
-- \( M \) = molaridade (mol/L)
-- \( n \) = número de mols
-- \( V \) = volume da solução (L)
+- $ M $ = molaridade (mol/L)
+- $ n $ = número de mols
+- $ V $ = volume da solução (L)
 
 ---
 

@@ -8,12 +8,12 @@ $$
 ax + b = 0, \quad a \neq 0
 $$
 
-- Objetivo: encontrar o valor de \(x\) que satisfaz a equação
+- Objetivo: encontrar o valor de $x$ que satisfaz a equação
 
 ---
 
 ## 2. Resolução
-1. Isolar a variável \(x\):
+1. Isolar a variável $x$:
 $$
 ax = -b
 $$
@@ -21,7 +21,7 @@ $$
 x = -\frac{b}{a}
 $$
 
-- Exemplo: \(3x + 6 = 0 \Rightarrow 3x = -6 \Rightarrow x = -2\)
+- Exemplo: $3x + 6 = 0 \Rightarrow 3x = -6 \Rightarrow x = -2$
 
 ---
 
@@ -31,7 +31,7 @@ $$
 ax + b - b = 0 - b
 $$
 
-- **Multiplicação/Divisão:** multiplicar/dividir os dois lados pelo mesmo número (\( \neq 0 \))  
+- **Multiplicação/Divisão:** multiplicar/dividir os dois lados pelo mesmo número ($ \neq 0 $)  
 $$
 \frac{ax}{a} = \frac{-b}{a}
 $$
@@ -39,12 +39,12 @@ $$
 ---
 
 ## 4. Equações Reduzidas
-- Quando \(b = 0\):  
+- Quando $b = 0$:  
 $$
 ax = 0 \Rightarrow x = 0
 $$
 
-- Quando \(a = 1\):  
+- Quando $a = 1$:  
 $$
 x + b = 0 \Rightarrow x = -b
 $$
@@ -52,7 +52,7 @@ $$
 ---
 
 ## 5. Equações com Parênteses
-- Expandir e simplificar antes de isolar \(x\)  
+- Expandir e simplificar antes de isolar $x$  
 Ex.:  
 $$
 2(x + 3) - 4 = 0 \Rightarrow 2x + 6 - 4 = 0 \Rightarrow 2x + 2 = 0 \Rightarrow x = -1
@@ -70,7 +70,7 @@ $$
 ---
 
 ## 7. Verificação
-- Substituir \(x\) encontrado na equação original para confirmar que a igualdade é verdadeira
+- Substituir $x$ encontrado na equação original para confirmar que a igualdade é verdadeira
 
 ---
 
@@ -83,10 +83,10 @@ $$
 ---
 
 ## 9. Resumo Final
-- Equação de 1º grau: \(ax + b = 0\)  
+- Equação de 1º grau: $ax + b = 0$  
 - Passos:
   1. Simplificar
-  2. Isolar \(x\)
+  2. Isolar $x$
   3. Resolver
   4. Verificar solução
 - Fundamental para **álgebra, problemas do dia a dia e ENEM**

@@ -36,10 +36,10 @@ O **SI** é o padrão mundial para medidas científicas. Ele define **unidades-b
 São formadas pela combinação matemática das grandezas fundamentais.
 
 Exemplos:
-- **Velocidade**: \( v = \frac{\text{m}}{\text{s}} = \text{m/s} \)
-- **Aceleração**: \( a = \frac{\text{m}}{\text{s}^2} \)
-- **Força**: \( F = m \cdot a \Rightarrow \text{kg·m/s}^2 = \text{N (newton)} \)
-- **Energia/Trabalho**: \( \text{N·m} = \text{J (joule)} \)
+- **Velocidade**: $ v = \frac{\text{m}}{\text{s}} = \text{m/s} $
+- **Aceleração**: $ a = \frac{\text{m}}{\text{s}^2} $
+- **Força**: $ F = m \cdot a \Rightarrow \text{kg·m/s}^2 = \text{N (newton)} $
+- **Energia/Trabalho**: $ \text{N·m} = \text{J (joule)} $
 
 ---
 
@@ -67,14 +67,14 @@ $$
 ## 5. Múltiplos e submúltiplos — Prefixos do SI
 | Prefixo | Símbolo | Fator |
 |---------|---------|-------|
-| quilo | k | \(10^3\) |
-| mega | M | \(10^6\) |
-| giga | G | \(10^9\) |
-| tera | T | \(10^{12}\) |
-| mili | m | \(10^{-3}\) |
-| micro | µ | \(10^{-6}\) |
-| nano | n | \(10^{-9}\) |
-| pico | p | \(10^{-12}\) |
+| quilo | k | $10^3$ |
+| mega | M | $10^6$ |
+| giga | G | $10^9$ |
+| tera | T | $10^{12}$ |
+| mili | m | $10^{-3}$ |
+| micro | µ | $10^{-6}$ |
+| nano | n | $10^{-9}$ |
+| pico | p | $10^{-12}$ |
 
 Exemplo:
 $$
@@ -91,8 +91,8 @@ Regras básicas:
 - zeros **à direita**, com vírgula, contam.
 
 Ex.:
-- \( 0{,}0045 \) → 2 algarismos significativos.
-- \( 7{,}120 \) → 4 algarismos significativos.
+- $ 0{,}0045 $ → 2 algarismos significativos.
+- $ 7{,}120 $ → 4 algarismos significativos.
 
 ---
 

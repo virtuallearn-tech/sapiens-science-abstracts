@@ -14,14 +14,14 @@ W = F \cdot d \cdot \cos\theta
 $$
 
 Onde:
-- \(F\) = força aplicada
-- \(d\) = deslocamento
-- \(\theta\) = ângulo entre força e movimento
+- $F$ = força aplicada
+- $d$ = deslocamento
+- $\theta$ = ângulo entre força e movimento
 
 ### Interpretação pelo ângulo
-- \(0^\circ\): trabalho **máximo e positivo**
-- \(90^\circ\): trabalho **nulo**
-- \(180^\circ\): trabalho **negativo**
+- $0^\circ$: trabalho **máximo e positivo**
+- $90^\circ$: trabalho **nulo**
+- $180^\circ$: trabalho **negativo**
 
 ### Exemplos
 - Empurrar um carrinho → trabalho **positivo**
@@ -41,7 +41,7 @@ $$
 E_c = \frac{mv^2}{2}
 $$
 
-Depende **do quadrado da velocidade** — pequena variação em \(v\) causa grande variação em energia.
+Depende **do quadrado da velocidade** — pequena variação em $v$ causa grande variação em energia.
 
 ---
 

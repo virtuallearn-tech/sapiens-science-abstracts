@@ -7,7 +7,7 @@ $$
 \text{Razão} = \frac{a}{b}, \quad b \neq 0
 $$
 
-- Exemplo: se uma sala tem 12 meninos e 8 meninas, a razão meninos/meninas é \(12:8 = 3:2\)
+- Exemplo: se uma sala tem 12 meninos e 8 meninas, a razão meninos/meninas é $12:8 = 3:2$
 
 ---
 
@@ -18,7 +18,7 @@ $$
 \frac{a}{b} = \frac{c}{d}, \quad b \neq 0, \, d \neq 0
 $$
 
-- Exemplo: \(3:2 = 6:4\)  
+- Exemplo: $3:2 = 6:4$  
 
 ### 2.1 Propriedades da Proporção
 - **Produto dos meios = produto dos extremos**  
@@ -77,8 +77,8 @@ $$
 ---
 
 ## 7. Resumo Final
-- **Razão:** comparação entre duas grandezas (\(a:b\))  
-- **Proporção:** igualdade entre duas razões (\(a/b = c/d\))  
+- **Razão:** comparação entre duas grandezas ($a:b$)  
+- **Proporção:** igualdade entre duas razões ($a/b = c/d$)  
 - Produto dos meios = produto dos extremos  
 - Tipos: direta (mesmo sentido) e inversa (sentido contrário)  
 - Ferramenta essencial: **regra de três** para problemas práticos

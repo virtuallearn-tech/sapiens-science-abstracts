@@ -7,16 +7,16 @@ $$
 f(x) = ax^2 + bx + c, \quad a \neq 0
 $$
 
-- \(a\) → determina concavidade da parábola  
-- \(b\) → coeficiente linear associado à inclinação  
-- \(c\) → coeficiente constante, intercepto com o eixo \(y\)
+- $a$ → determina concavidade da parábola  
+- $b$ → coeficiente linear associado à inclinação  
+- $c$ → coeficiente constante, intercepto com o eixo $y$
 
 ---
 
 ## 2. Características
 - Gráfico é uma **parábola**:
-  - \(a > 0\) → concavidade para cima  
-  - \(a < 0\) → concavidade para baixo
+  - $a > 0$ → concavidade para cima  
+  - $a < 0$ → concavidade para baixo
 - Vértice: ponto de máximo ou mínimo da função
 
 $$
@@ -26,16 +26,16 @@ $$
 ---
 
 ## 3. Raízes da Função
-- Pontos em que \(f(x) = 0\) (intercepto com o eixo \(x\)):
+- Pontos em que $f(x) = 0$ (intercepto com o eixo $x$):
 
 $$
 x = \frac{-b \pm \sqrt{\Delta}}{2a}
 $$
 
-- \(\Delta = b^2 - 4ac\) → discriminante:
-  - \(\Delta > 0\) → duas raízes reais distintas  
-  - \(\Delta = 0\) → uma raiz real (dupla)  
-  - \(\Delta < 0\) → raízes complexas
+- $\Delta = b^2 - 4ac$ → discriminante:
+  - $\Delta > 0$ → duas raízes reais distintas  
+  - $\Delta = 0$ → uma raiz real (dupla)  
+  - $\Delta < 0$ → raízes complexas
 
 ---
 
@@ -51,7 +51,7 @@ $$
 ---
 
 ## 5. Interceptos
-- Intercepto com y: \(f(0) = c\)  
+- Intercepto com y: $f(0) = c$  
 - Interceptos com x: raizes calculadas pela fórmula de Bhaskara
 
 ---
@@ -65,16 +65,16 @@ $$
 ---
 
 ## 7. Exemplo
-- \(f(x) = 2x^2 - 4x + 1\)  
-  - \(a = 2 > 0\) → parábola para cima  
-  - Vértice: \(x_v = 1\), \(y_v = -1\)  
-  - Raízes: \(x = 0,5\) e \(x = 1\) (resolução via Bhaskara)
+- $f(x) = 2x^2 - 4x + 1$  
+  - $a = 2 > 0$ → parábola para cima  
+  - Vértice: $x_v = 1$, $y_v = -1$  
+  - Raízes: $x = 0,5$ e $x = 1$ (resolução via Bhaskara)
 
 ---
 
 ## 8. Resumo Final
-- Função quadrática: \(f(x) = ax^2 + bx + c\)  
-- Gráfico: parábola com vértice \((x_v, y_v)\)  
-- Raízes determinadas pelo discriminante \(\Delta\)  
+- Função quadrática: $f(x) = ax^2 + bx + c$  
+- Gráfico: parábola com vértice $(x_v, y_v)$  
+- Raízes determinadas pelo discriminante $\Delta$  
 - Aplicações: física, economia, geometria e ENEM  
-- Concavidade e posição da parábola definidas por \(a\) e \(c\)
+- Concavidade e posição da parábola definidas por $a$ e $c$

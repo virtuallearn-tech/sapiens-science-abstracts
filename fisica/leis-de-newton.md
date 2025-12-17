@@ -91,8 +91,8 @@ $$
 \vec{F}_R = \sum \vec{F}_i
 $$
 
-Se \(\vec{F}_R = 0\) → **MRU ou repouso**  
-Se \(\vec{F}_R \neq 0\) → **aceleração**
+Se $\vec{F}_R = 0$ → **MRU ou repouso**  
+Se $\vec{F}_R \neq 0$ → **aceleração**
 
 ---
 
@@ -105,10 +105,10 @@ $$
 P_y = mg\cos\theta
 $$
 
-- \(P_x\): desliza o corpo
-- \(P_y\): comprimida contra o plano → gera **normal**
+- $P_x$: desliza o corpo
+- $P_y$: comprimida contra o plano → gera **normal**
 
-Atrito reduz o movimento: \(F_{at} = \mu N\)
+Atrito reduz o movimento: $F_{at} = \mu N$
 
 ---
 
@@ -135,7 +135,7 @@ Quando blocos são ligados por fios ideais:
 
 ## 10. O que mais aparece no ENEM
 - força e aceleração proporcional
-- gráficos \(F \times a\) e \(a \times m\)
+- gráficos $F \times a$ e $a \times m$
 - planos inclinados com atrito
 - análise qualitativa (antes de cálculos)
 - ação e reação em corpos diferentes

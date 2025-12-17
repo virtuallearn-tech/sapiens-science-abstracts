@@ -16,7 +16,7 @@ d = \frac{m}{V}
 $$
 
 Unidade: **kg/m³**  
-Água: **\(1000 \, kg/m^3\)**
+Água: **$1000 \, kg/m^3$**
 
 ---
 
@@ -37,9 +37,9 @@ p = dgh
 $$
 
 Onde:
-- \(d\) = densidade do fluido
-- \(g\) = gravidade
-- \(h\) = profundidade
+- $d$ = densidade do fluido
+- $g$ = gravidade
+- $h$ = profundidade
 
 Pressão total num ponto:
 $$

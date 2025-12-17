@@ -13,7 +13,7 @@ Geometria Espacial estuda **figuras tridimensionais**, analisando **volumes, ár
 $$
 V - A + F = 2
 $$  
-- \(V\) = vértices, \(A\) = arestas, \(F\) = faces
+- $V$ = vértices, $A$ = arestas, $F$ = faces
 
 ---
 
@@ -26,7 +26,7 @@ $$
 $$
 V = \frac{1}{3} A_b \cdot h
 $$  
-- \(A_b\) → área da base, \(h\) → altura
+- $A_b$ → área da base, $h$ → altura
 
 ---
 
@@ -43,7 +43,7 @@ $$
 $$
 V = \frac{4}{3}\pi r^3, \quad A = 4 \pi r^2
 $$  
-- \(r\) → raio, \(h\) → altura, \(g\) → geratriz
+- $r$ → raio, $h$ → altura, $g$ → geratriz
 
 ---
 
@@ -63,8 +63,8 @@ $$
 ---
 
 ## 7. Exemplos
-1. Cubo: \(L = 3 \Rightarrow V = 27, A = 54\)  
-2. Cilindro: \(r = 2, h = 5 \Rightarrow V = 20\pi, A = 28\pi\)
+1. Cubo: $L = 3 \Rightarrow V = 27, A = 54$  
+2. Cilindro: $r = 2, h = 5 \Rightarrow V = 20\pi, A = 28\pi$
 
 ---
 

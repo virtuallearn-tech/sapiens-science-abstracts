@@ -13,12 +13,12 @@ $$
 ---
 
 ## 2. Fórmulas
-- Para calcular a hipotenusa \(h\):
+- Para calcular a hipotenusa $h$:
 $$
 h = \sqrt{a^2 + b^2}
 $$
 
-- Para calcular um cateto \(a\) ou \(b\):
+- Para calcular um cateto $a$ ou $b$:
 $$
 a = \sqrt{h^2 - b^2}, \quad b = \sqrt{h^2 - a^2}
 $$
@@ -57,6 +57,6 @@ $$
 ---
 
 ## 6. Resumo Final
-- Teorema de Pitágoras: \(h^2 = a^2 + b^2\)  
+- Teorema de Pitágoras: $h^2 = a^2 + b^2$  
 - Relaciona catetos e hipotenusa  
 - Essencial para **triângulos, medidas e ENEM**

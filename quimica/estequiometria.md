@@ -19,7 +19,7 @@ Sempre se baseia em uma **equação química balanceada**.
 
 O **mol** é a unidade que mede a quantidade de matéria.
 
-- 1 mol contém \( 6{,}02 \times 10^{23} \) partículas
+- 1 mol contém $ 6{,}02 \times 10^{23} $ partículas
 - Esse valor é chamado de **Número de Avogadro**
 
 ---

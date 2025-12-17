@@ -7,7 +7,7 @@ $$
 ax^2 + bx + c = 0, \quad a \neq 0
 $$
 
-- \(a, b, c\) são coeficientes reais
+- $a, b, c$ são coeficientes reais
 
 ---
 
@@ -18,10 +18,10 @@ $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
-- \(\Delta = b^2 - 4ac\) → **discriminante**, indica o tipo de raízes:
-  - \(\Delta > 0\) → duas raízes reais e distintas  
-  - \(\Delta = 0\) → duas raízes reais iguais  
-  - \(\Delta < 0\) → raízes complexas
+- $\Delta = b^2 - 4ac$ → **discriminante**, indica o tipo de raízes:
+  - $\Delta > 0$ → duas raízes reais e distintas  
+  - $\Delta = 0$ → duas raízes reais iguais  
+  - $\Delta < 0$ → raízes complexas
 
 ---
 
@@ -35,7 +35,7 @@ $$
 ---
 
 ## 4. Completamento do Quadrado
-- Transformar equação para a forma \((x + p)^2 = q\):
+- Transformar equação para a forma $(x + p)^2 = q$:
 
 $$
 ax^2 + bx + c = 0 \Rightarrow x^2 + \frac{b}{a}x + \frac{c}{a} = 0
@@ -50,8 +50,8 @@ $$
 ---
 
 ## 5. Propriedades
-- Soma das raízes: \(x_1 + x_2 = -\frac{b}{a}\)  
-- Produto das raízes: \(x_1 \cdot x_2 = \frac{c}{a}\)
+- Soma das raízes: $x_1 + x_2 = -\frac{b}{a}$  
+- Produto das raízes: $x_1 \cdot x_2 = \frac{c}{a}$
 
 ---
 
@@ -65,16 +65,16 @@ $$
 
 ## 7. Gráfico da Equação Quadrática
 - Representa uma **parábola**:
-  - \(a > 0\) → concavidade para cima  
-  - \(a < 0\) → concavidade para baixo  
-- Vértice: \((x_v, y_v) = \left(-\frac{b}{2a}, -\frac{\Delta}{4a}\right)\)  
-- Eixo de simetria: \(x = -\frac{b}{2a}\)
+  - $a > 0$ → concavidade para cima  
+  - $a < 0$ → concavidade para baixo  
+- Vértice: $(x_v, y_v) = \left(-\frac{b}{2a}, -\frac{\Delta}{4a}\right)$  
+- Eixo de simetria: $x = -\frac{b}{2a}$
 
 ---
 
 ## 8. Resumo Final
-- Equação de 2º grau: \(ax^2 + bx + c = 0\)  
+- Equação de 2º grau: $ax^2 + bx + c = 0$  
 - Soluções: Bhaskara, fatoração ou completamento do quadrado  
-- Discriminante (\(\Delta\)) determina tipo de raízes  
+- Discriminante ($\Delta$) determina tipo de raízes  
 - Soma e produto das raízes fornecem informações importantes  
 - Fundamental para **funções quadráticas, gráficos e problemas do ENEM**

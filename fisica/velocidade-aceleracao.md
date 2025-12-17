@@ -13,7 +13,7 @@ $$
 
 ### 1.2. Velocidade Instantânea
 É o valor da velocidade **em um instante específico**.  
-No gráfico \(s \times t\), ela corresponde à **inclinação da tangente**.
+No gráfico $s \times t$, ela corresponde à **inclinação da tangente**.
 
 ### 1.3. Unidades
 - Sistema Internacional: **m/s**
@@ -31,8 +31,8 @@ $$
 a = \frac{\Delta v}{\Delta t}
 $$
 
-Se \(\Delta v > 0\): **aceleração positiva** (ganho de velocidade).  
-Se \(\Delta v < 0\): **aceleração negativa** — também chamada de **desaceleração**.
+Se $\Delta v > 0$: **aceleração positiva** (ganho de velocidade).  
+Se $\Delta v < 0$: **aceleração negativa** — também chamada de **desaceleração**.
 
 ### 2.1. Aceleração Instantânea
 Assim como a velocidade instantânea:
@@ -51,12 +51,12 @@ Depende da relação entre **velocidade e aceleração**:
 ---
 
 ## 4. Gráficos Fundamentais
-### 4.1. Gráfico \(s \times t\)
+### 4.1. Gráfico $s \times t$
 - Inclinação → **velocidade**
 - Reta inclinada → **velocidade constante**
 - Curva → **velocidade variando**
 
-### 4.2. Gráfico \(v \times t\)
+### 4.2. Gráfico $v \times t$
 - Inclinação → **aceleração**
 - Área sob o gráfico → **deslocamento**
 
@@ -65,7 +65,7 @@ $$
 \Delta s = \text{área sob o gráfico de } v \times t
 $$
 
-### 4.3. Gráfico \(a \times t\)
+### 4.3. Gráfico $a \times t$
 - Área → **variação de velocidade**
 $$
 \Delta v = \text{área sob o gráfico de } a \times t

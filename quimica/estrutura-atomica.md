@@ -78,9 +78,9 @@ A = Z + N
 $$
 
 Onde:
-- \( A \) = número de massa  
-- \( Z \) = número atômico  
-- \( N \) = número de nêutrons  
+- $ A $ = número de massa  
+- $ Z $ = número atômico  
+- $ N $ = número de nêutrons  
 
 ---
 

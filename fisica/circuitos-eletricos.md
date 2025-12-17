@@ -42,8 +42,8 @@ $$
 R = \frac{V}{I} \quad (\text{Lei de Ohm})
 $$
 
-- Série: \(R_{eq} = R_1 + R_2 + \dots\)  
-- Paralelo: \(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots\)
+- Série: $R_{eq} = R_1 + R_2 + \dots$  
+- Paralelo: $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots$
 
 ---
 
@@ -111,5 +111,5 @@ $$
 - Corrente = fluxo de elétrons; tensão = diferença de potencial  
 - Resistência: oposição à corrente; associação: série/paralelo  
 - Leis de Kirchhoff: conservação de carga e energia  
-- Potência e energia elétrica: \(P = VI\), \(E = P t\)  
+- Potência e energia elétrica: $P = VI$, $E = P t$  
 - Essencial para entender eletrônica, casas, aparelhos e geração de energia

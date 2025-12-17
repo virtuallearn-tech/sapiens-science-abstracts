@@ -47,7 +47,7 @@ Por isso:
 - tacos, raquetes e chutes funcionam
 - airbag aumenta o **tempo da colisão**, reduzindo força
 
-Unidade: \(N \cdot s\).
+Unidade: $N \cdot s$.
 
 ---
 
@@ -168,8 +168,8 @@ Quanto **mais tempo durar o impacto**, **menor a força média** — conceito us
 
 # 11. Resumo Final
 
-- Quantidade de movimento: \(p = mv\)
-- Impulso muda o movimento: \(I = F\Delta t = \Delta p\)
+- Quantidade de movimento: $p = mv$
+- Impulso muda o movimento: $I = F\Delta t = \Delta p$
 - Conservação vale sempre em sistemas isolados
 - Choques podem ser elásticos ou inelásticos
 - Ideias fundamentais em foguetes, airbags e colisões
