@@ -25,9 +25,9 @@ A análise dimensional é uma ferramenta da física que permite **verificar a co
 ## 3. Princípio da Homogeneidade
 - Todas as parcelas de uma equação física devem ter **a mesma dimensão**  
 - Exemplo:
-\[
+$$
 S = v t + \frac{1}{2} a t^2
-\]
+$$
 - Verificação:
   - \(v t \rightarrow (L/T) \cdot T = L\)  
   - \(\frac{1}{2} a t^2 \rightarrow (L/T^2) \cdot T^2 = L\)  

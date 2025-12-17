@@ -3,9 +3,9 @@
 ## 1. Conceito de Razão
 Razão é a **comparação entre duas grandezas** do mesmo tipo, representando quantas vezes uma contém a outra:
 
-\[
+$$
 \text{Razão} = \frac{a}{b}, \quad b \neq 0
-\]
+$$
 
 - Exemplo: se uma sala tem 12 meninos e 8 meninas, a razão meninos/meninas é \(12:8 = 3:2\)
 
@@ -14,32 +14,32 @@ Razão é a **comparação entre duas grandezas** do mesmo tipo, representando q
 ## 2. Conceito de Proporção
 Proporção é a **igualdade entre duas razões**:
 
-\[
+$$
 \frac{a}{b} = \frac{c}{d}, \quad b \neq 0, \, d \neq 0
-\]
+$$
 
 - Exemplo: \(3:2 = 6:4\)  
 
 ### 2.1 Propriedades da Proporção
 - **Produto dos meios = produto dos extremos**  
-\[
+$$
 a \cdot d = b \cdot c
-\]
+$$
 - Permite resolver problemas de grandezas proporcionais
 
 ---
 
 ## 3. Tipos de Proporção
 1. **Direta:** quando uma grandeza aumenta, a outra também aumenta na mesma razão  
-   \[
+   $$
    a \uparrow \Rightarrow b \uparrow
-   \]
+   $$
    Exemplo: preço de maçãs proporcional à quantidade
 
 2. **Inversa:** quando uma grandeza aumenta, a outra diminui  
-   \[
+   $$
    a \uparrow \Rightarrow b \downarrow
-   \]
+   $$
    Exemplo: tempo para percorrer uma distância à velocidade constante
 
 ---
@@ -50,14 +50,14 @@ a \cdot d = b \cdot c
 - **Composta:** várias razões envolvendo múltiplas grandezas
 
 Exemplo (direta):
-\[
+$$
 \frac{a}{b} = \frac{c}{x} \Rightarrow x = \frac{b \cdot c}{a}
-\]
+$$
 
 Exemplo (inversa):
-\[
+$$
 \frac{a}{b} = \frac{x}{c} \Rightarrow x = \frac{a \cdot c}{b}
-\]
+$$
 
 ---
 

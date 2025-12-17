@@ -3,9 +3,9 @@
 ## 1. Conceito
 Função exponencial é uma função da forma:
 
-\[
+$$
 f(x) = a^x, \quad a > 0, \, a \neq 1
-\]
+$$
 
 - A variável \(x\) está **no expoente**  
 - Base \(a\) define crescimento ou decrescimento
@@ -25,29 +25,29 @@ f(x) = a^x, \quad a > 0, \, a \neq 1
 
 ## 3. Propriedades
 - Produto de potências com mesma base:  
-\[
+$$
 a^m \cdot a^n = a^{m+n}
-\]
+$$
 
 - Divisão de potências:  
-\[
+$$
 \frac{a^m}{a^n} = a^{m-n}
-\]
+$$
 
 - Potência de potência:  
-\[
+$$
 (a^m)^n = a^{m \cdot n}
-\]
+$$
 
 - Potência de produto:  
-\[
+$$
 (ab)^n = a^n \cdot b^n
-\]
+$$
 
 - Potência de quociente:  
-\[
+$$
 \left(\frac{a}{b}\right)^n = \frac{a^n}{b^n}
-\]
+$$
 
 ---
 

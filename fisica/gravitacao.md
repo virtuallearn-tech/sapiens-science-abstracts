@@ -9,9 +9,9 @@
   - \(k\) = constante para cada sistema
 
 ## 2. Lei da Gravitação Universal (Newton)
-\[
+$$
 F = G \frac{m_1 m_2}{r^2}
-\]
+$$
 
 Onde:  
 - \(F\) = força gravitacional  
@@ -24,17 +24,17 @@ Onde:
 ## 3. Campo gravitacional
 Campo criado por uma massa:
 
-\[
+$$
 g = G \frac{M}{r^2}
-\]
+$$
 
 Unidade: **m/s²**  
 Na superfície da Terra: **\(g ≈ 9,8\)**.
 
 ## 4. Peso e aceleração gravitacional
-\[
+$$
 P = m \cdot g
-\]
+$$
 
 - Varia com o local (diferença de altitude e latitude).
 - **Massa é constante, peso não.**
@@ -42,32 +42,32 @@ P = m \cdot g
 ## 5. Energia potencial gravitacional
 Para alturas próximas da superfície:
 
-\[
+$$
 E_p = mgh
-\]
+$$
 
 Em situações astronômicas:
 
-\[
+$$
 E_p = -G\frac{Mm}{r}
-\]
+$$
 (negativa porque o zero está no infinito)
 
 ## 6. Velocidade de escape
 Velocidade mínima para **abandonar um astro sem voltar**:
 
-\[
+$$
 v_e = \sqrt{\frac{2GM}{R}}
-\]
+$$
 
 Terra: ~ **11,2 km/s**.
 
 ## 7. Satélites artificiais
 Para órbita circular estável:
 
-\[
+$$
 v_{orb} = \sqrt{\frac{GM}{R}}
-\]
+$$
 
 - Quanto maior \(R\), **menor a velocidade orbital**.
 - Período também aumenta.

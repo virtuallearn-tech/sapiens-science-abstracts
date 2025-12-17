@@ -17,34 +17,34 @@ Geometria Plana estuda **figuras bidimensionais**, suas propriedades, medidas e 
 
 ## 3. Cálculo de Área
 - **Triângulo:**  
-\[
+$$
 A = \frac{\text{base} \cdot \text{altura}}{2}
-\]
+$$
 
 - **Quadrado:**  
-\[
+$$
 A = L^2
-\]
+$$
 
 - **Retângulo:**  
-\[
+$$
 A = b \cdot h
-\]
+$$
 
 - **Losango:**  
-\[
+$$
 A = \frac{D \cdot d}{2} \quad (D, d = \text{diagonais})
-\]
+$$
 
 - **Trapézio:**  
-\[
+$$
 A = \frac{(B + b) \cdot h}{2}
-\]
+$$
 
 - **Círculo:**  
-\[
+$$
 A = \pi r^2, \quad C = 2 \pi r
-\]
+$$
 
 ---
 

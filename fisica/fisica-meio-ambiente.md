@@ -43,9 +43,9 @@ Estuda a **aplicação da física** em fenômenos naturais e tecnológicos, com 
 
 ## 7. Poluição Sonora
 - Intensidade sonora:
-\[
+$$
 \beta = 10 \log_{10} \frac{I}{I_0} \, \text{(dB)}
-\]
+$$
 - Controle: barreiras acústicas, legislação
 
 ---

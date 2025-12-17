@@ -17,9 +17,9 @@ Estatística é o **conjunto de métodos para coletar, organizar, analisar e int
 
 ## 3. Medidas de Tendência Central
 - **Média (\(\bar{x}\))**:  
-\[
+$$
 \bar{x} = \frac{\text{soma dos valores}}{n}
-\]
+$$
 
 - **Mediana (Md)**: valor central quando os dados estão ordenados
 
@@ -29,16 +29,16 @@ Estatística é o **conjunto de métodos para coletar, organizar, analisar e int
 
 ## 4. Medidas de Dispersão
 - **Amplitude:** diferença entre maior e menor valor  
-\[
+$$
 A = x_{\text{máx}} - x_{\text{mín}}
-\]
+$$
 
 - **Desvio Médio:** média das diferenças absolutas em relação à média  
 - **Variância (\(\sigma^2\)) e Desvio Padrão (\(\sigma\))**: medem dispersão dos dados
 
-\[
+$$
 \sigma^2 = \frac{\sum (x_i - \bar{x})^2}{n}, \quad \sigma = \sqrt{\sigma^2}
-\]
+$$
 
 ---
 

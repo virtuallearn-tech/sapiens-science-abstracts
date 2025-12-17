@@ -24,9 +24,9 @@ Elas são fundamentais para entender praticamente toda a mecânica e caem muito 
 ## 2. Segunda Lei de Newton — Princípio Fundamental da Dinâmica
 > **A força resultante é proporcional ao produto da massa pela aceleração.**
 
-\[
+$$
 \vec{F}_{\text{resultante}} = m \cdot \vec{a}
-\]
+$$
 
 ### Consequências:
 - Quanto **maior a força**, maior a aceleração.
@@ -34,9 +34,9 @@ Elas são fundamentais para entender praticamente toda a mecânica e caem muito 
 
 ### Unidade:
 - Força no SI → **Newton (N)**
-\[
+$$
 1\,N = 1\,kg \cdot m/s^2
-\]
+$$
 
 ### Situações clássicas:
 - empurrar objetos pesados → aceleração pequena
@@ -62,9 +62,9 @@ Elas são fundamentais para entender praticamente toda a mecânica e caem muito 
 Dois exemplos clássicos da 2ª Lei:
 
 ### Peso
-\[
+$$
 P = m \cdot g
-\]
+$$
 
 ### Força Normal
 Força exercida pela superfície, **perpendicular ao contato**, equilibrando o peso quando não há aceleração vertical.
@@ -74,9 +74,9 @@ Força exercida pela superfície, **perpendicular ao contato**, equilibrando o p
 ## 5. Força de Atrito
 Depende da normal e do coeficiente de atrito:
 
-\[
+$$
 F_{atrito} = \mu \cdot N
-\]
+$$
 
 - **Atrito estático:** impede o início do movimento
 - **Atrito cinético:** atua quando o corpo está deslizando
@@ -87,9 +87,9 @@ Atrito sempre **se opõe ao movimento ou à tendência ao movimento**.
 
 ## 6. Força Resultante
 Quando várias forças atuam:
-\[
+$$
 \vec{F}_R = \sum \vec{F}_i
-\]
+$$
 
 Se \(\vec{F}_R = 0\) → **MRU ou repouso**  
 Se \(\vec{F}_R \neq 0\) → **aceleração**
@@ -98,12 +98,12 @@ Se \(\vec{F}_R \neq 0\) → **aceleração**
 
 ## 7. Planos Inclinados
 Componentes do peso:
-\[
+$$
 P_x = mg\sin\theta
-\]
-\[
+$$
+$$
 P_y = mg\cos\theta
-\]
+$$
 
 - \(P_x\): desliza o corpo
 - \(P_y\): comprimida contra o plano → gera **normal**
@@ -114,12 +114,12 @@ Atrito reduz o movimento: \(F_{at} = \mu N\)
 
 ## 8. Puxando com Força Obliqua
 A força tem componentes:
-\[
+$$
 F_x = F\cos\theta
-\]
-\[
+$$
+$$
 F_y = F\sin\theta
-\]
+$$
 
 - Se a componente vertical **aumenta**, a normal diminui.
 - Se **puxa para baixo**, a normal aumenta (logo, atrito também).

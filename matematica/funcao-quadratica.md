@@ -3,9 +3,9 @@
 ## 1. Conceito
 Função quadrática é uma função polinomial de **segundo grau** da forma:
 
-\[
+$$
 f(x) = ax^2 + bx + c, \quad a \neq 0
-\]
+$$
 
 - \(a\) → determina concavidade da parábola  
 - \(b\) → coeficiente linear associado à inclinação  
@@ -19,18 +19,18 @@ f(x) = ax^2 + bx + c, \quad a \neq 0
   - \(a < 0\) → concavidade para baixo
 - Vértice: ponto de máximo ou mínimo da função
 
-\[
+$$
 x_v = -\frac{b}{2a}, \quad y_v = f(x_v) = -\frac{\Delta}{4a}, \quad \Delta = b^2 - 4ac
-\]
+$$
 
 ---
 
 ## 3. Raízes da Função
 - Pontos em que \(f(x) = 0\) (intercepto com o eixo \(x\)):
 
-\[
+$$
 x = \frac{-b \pm \sqrt{\Delta}}{2a}
-\]
+$$
 
 - \(\Delta = b^2 - 4ac\) → discriminante:
   - \(\Delta > 0\) → duas raízes reais distintas  
@@ -42,9 +42,9 @@ x = \frac{-b \pm \sqrt{\Delta}}{2a}
 ## 4. Forma Canônica
 - Para análise de vértice e concavidade:
 
-\[
+$$
 f(x) = a(x - x_v)^2 + y_v
-\]
+$$
 
 - Facilita identificar **máximo ou mínimo da função**
 

@@ -3,9 +3,9 @@
 ## 1. Conceito
 Porcentagem é uma **forma de expressar uma razão em relação a 100**:
 
-\[
+$$
 \text{Porcentagem} = \frac{\text{Parte}}{\text{Total}} \times 100\%
-\]
+$$
 
 - Símbolo: %  
 - Exemplo: 20% de 200 = \(200 \cdot 0,2 = 40\)
@@ -14,28 +14,28 @@ Porcentagem é uma **forma de expressar uma razão em relação a 100**:
 
 ## 2. Cálculo de Porcentagem
 1. **De um valor**:
-\[
+$$
 \text{Valor} \times \frac{\%}{100}
-\]  
+$$  
 Ex.: 15% de 80 → \(80 \cdot 0,15 = 12\)
 
 2. **Porcentagem entre valores**:
-\[
+$$
 \frac{\text{Parte}}{\text{Total}} \times 100\%
-\]  
+$$  
 Ex.: Se 30 de 150 alunos são meninas → \(\frac{30}{150} \cdot 100 = 20\%\)
 
 ---
 
 ## 3. Acréscimo e Desconto Percentual
 - **Acréscimo**:  
-\[
+$$
 \text{Valor final} = \text{Valor inicial} \cdot \left(1 + \frac{\%}{100}\right)
-\]  
+$$  
 - **Desconto**:  
-\[
+$$
 \text{Valor final} = \text{Valor inicial} \cdot \left(1 - \frac{\%}{100}\right)
-\]
+$$
 
 Ex.: R$200 com 10% de desconto → \(200 \cdot 0,9 = 180\)
 
@@ -43,13 +43,13 @@ Ex.: R$200 com 10% de desconto → \(200 \cdot 0,9 = 180\)
 
 ## 4. Juros Simples e Composto
 - **Juros Simples:**  
-\[
+$$
 J = P \cdot i \cdot t
-\]  
+$$  
 - **Juros Composto:**  
-\[
+$$
 M = P \cdot (1 + i)^t
-\]  
+$$  
 
 - \(P\) = principal, \(i\) = taxa, \(t\) = tempo, \(M\) = montante
 
@@ -57,9 +57,9 @@ M = P \cdot (1 + i)^t
 
 ## 5. Variação Percentual
 - Mudança relativa entre dois valores:  
-\[
+$$
 \text{Variação \%} = \frac{\text{Valor final} - \text{Valor inicial}}{\text{Valor inicial}} \cdot 100
-\]
+$$
 
 - Pode ser positiva (aumento) ou negativa (redução)
 

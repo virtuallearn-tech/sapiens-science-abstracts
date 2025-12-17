@@ -6,9 +6,9 @@ A **velocidade** indica o quão rápido a posição de um corpo muda no tempo.
 
 ### 1.1. Velocidade Média
 Representa a razão entre deslocamento e tempo:
-\[
+$$
 v_m = \frac{\Delta s}{\Delta t}
-\]
+$$
 - Se o movimento muda de sentido, o deslocamento pode ser **zero** mesmo com distância percorrida grande.
 
 ### 1.2. Velocidade Instantânea
@@ -18,27 +18,27 @@ No gráfico \(s \times t\), ela corresponde à **inclinação da tangente**.
 ### 1.3. Unidades
 - Sistema Internacional: **m/s**
 - Conversão importante:
-\[
+$$
 1\,\text{m/s} = 3{,}6\,\text{km/h}
-\]
+$$
 
 ---
 
 ## 2. Aceleração
 A aceleração indica a **variação da velocidade no tempo**.
 
-\[
+$$
 a = \frac{\Delta v}{\Delta t}
-\]
+$$
 
 Se \(\Delta v > 0\): **aceleração positiva** (ganho de velocidade).  
 Se \(\Delta v < 0\): **aceleração negativa** — também chamada de **desaceleração**.
 
 ### 2.1. Aceleração Instantânea
 Assim como a velocidade instantânea:
-\[
+$$
 a = \frac{dv}{dt}
-\]
+$$
 
 ---
 
@@ -61,41 +61,41 @@ Depende da relação entre **velocidade e aceleração**:
 - Área sob o gráfico → **deslocamento**
 
 Exemplo de deslocamento com área:
-\[
+$$
 \Delta s = \text{área sob o gráfico de } v \times t
-\]
+$$
 
 ### 4.3. Gráfico \(a \times t\)
 - Área → **variação de velocidade**
-\[
+$$
 \Delta v = \text{área sob o gráfico de } a \times t
-\]
+$$
 
 ---
 
 ## 5. Aceleração Constante (MRUV)
 Em movimento uniformemente variado:
-\[
+$$
 v = v_0 + at
-\]
-\[
+$$
+$$
 s = s_0 + v_0t + \frac{at^2}{2}
-\]
-\[
+$$
+$$
 v^2 = v_0^2 + 2a\Delta s
-\]
+$$
 
 ---
 
 ## 6. Queda Livre
 Um caso clássico de **aceleração constante**, onde:
-\[
+$$
 a = g \approx 9{,}8\,\text{m/s}^2
-\]
+$$
 Se o movimento é para cima:
-\[
+$$
 v = v_0 - gt
-\]
+$$
 
 ---
 
@@ -103,17 +103,17 @@ v = v_0 - gt
 Mesmo com **velocidade escalar constante**, há aceleração devido à troca de direção.
 
 A aceleração centrípeta é:
-\[
+$$
 a_c = \frac{v^2}{r}
-\]
+$$
 
 ---
 
 ## 8. Velocidade Relativa
 Quando dois corpos se movimentam:
-\[
+$$
 v_{rel} = v_A - v_B
-\]
+$$
 
 Se estão em sentidos contrários, **somam-se os módulos**.
 

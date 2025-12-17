@@ -9,9 +9,9 @@ Base para lentes, espelhos, espelhos côncavos e convexos, e formação de image
 ## 2. Leis da Reflexão
 1. O raio incidente, a normal e o raio refletido estão no **mesmo plano**.
 2. O **ângulo de incidência é igual ao ângulo de reflexão**:
-\[
+$$
 \theta_i = \theta_r
-\]
+$$
 
 ### Exemplos
 - Espelhos planos
@@ -22,9 +22,9 @@ Base para lentes, espelhos, espelhos côncavos e convexos, e formação de image
 ## 3. Leis da Refração
 - Mudança de meio → mudança de **velocidade** → **mudança de direção**
 - Lei de Snell:
-\[
+$$
 n_1 \sin \theta_1 = n_2 \sin \theta_2
-\]
+$$
 
 - \(n\) = índice de refração  
 - Maior \(n\) → luz se aproxima da normal  
@@ -41,9 +41,9 @@ n_1 \sin \theta_1 = n_2 \sin \theta_2
 - **Convexo:** diverge raios; sempre imagem virtual, menor e direita
 
 ### Equação dos espelhos:
-\[
+$$
 \frac{1}{f} = \frac{1}{p} + \frac{1}{q}
-\]
+$$
 
 - \(f\) = distância focal  
 - \(p\) = objeto  
@@ -56,15 +56,15 @@ n_1 \sin \theta_1 = n_2 \sin \theta_2
 - **Divergentes (côncavas):** espalham luz; sempre imagem virtual
 
 ### Equação das lentes:
-\[
+$$
 \frac{1}{f} = \frac{1}{p} + \frac{1}{q}
-\]
+$$
 
 - Mesma simbologia de espelhos
 - Magnificação:
-\[
+$$
 M = \frac{h'}{h} = - \frac{q}{p}
-\]
+$$
 
 ---
 
@@ -85,12 +85,12 @@ M = \frac{h'}{h} = - \frac{q}{p}
 
 ## 8. Reflexão Total e Fibra Óptica
 - Reflexão total ocorre quando:
-\[
+$$
 \theta_i > \theta_c
-\]
-\[
+$$
+$$
 \theta_c = \arcsin \left( \frac{n_2}{n_1} \right)
-\]
+$$
 
 - Base das **fibras ópticas**, que conduzem luz com mínima perda
 

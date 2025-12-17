@@ -12,9 +12,9 @@ Estuda: **posição, velocidade, aceleração, tempo e trajetória**.
 
 ### 🔹 Deslocamento (\(\Delta s\))
 Diferença entre posição final e inicial:
-\[
+$$
 \Delta s = s_f - s_i
-\]
+$$
 É uma **grandeza vetorial**.
 
 ### 🔹 Distância percorrida
@@ -24,9 +24,9 @@ Diferença entre posição final e inicial:
 
 ## 3. Velocidade
 ### 🔹 Velocidade média
-\[
+$$
 v_m = \frac{\Delta s}{\Delta t}
-\]
+$$
 
 ### 🔹 Velocidade instantânea
 Valor da velocidade em **um instante específico**.
@@ -37,9 +37,9 @@ Grandeza vetorial (módulo, direção e sentido).
 
 ## 4. Aceleração
 Indica variação da velocidade no tempo:
-\[
+$$
 a = \frac{\Delta v}{\Delta t}
-\]
+$$
 
 Se \(a>0\): movimento acelerado.  
 Se \(a<0\): movimento retardado (desaceleração).
@@ -54,9 +54,9 @@ Se \(a<0\): movimento retardado (desaceleração).
 - aceleração **zero**
 
 Equação da posição:
-\[
+$$
 s = s_0 + vt
-\]
+$$
 
 Velocidade média = velocidade constante.
 
@@ -72,17 +72,17 @@ Gráficos:
 
 Equações principais:
 
-\[
+$$
 v = v_0 + at
-\]
+$$
 
-\[
+$$
 s = s_0 + v_0t + \frac{at^2}{2}
-\]
+$$
 
-\[
+$$
 v^2 = v_0^2 + 2a\Delta s
-\]
+$$
 
 Gráficos:
 - \(v \times t\): reta inclinada
@@ -95,21 +95,21 @@ Gráficos:
 - sem resistência do ar
 
 Para queda (sentido para baixo):
-\[
+$$
 v = gt
-\]
-\[
+$$
+$$
 s = \frac{gt^2}{2}
-\]
+$$
 
 Para lançamento vertical para cima:
-\[
+$$
 v = v_0 - gt
-\]
+$$
 No topo:
-\[
+$$
 v = 0
-\]
+$$
 
 ---
 
@@ -119,14 +119,14 @@ Grandezas circulares:
 - velocidade angular (\(\omega\))
 - aceleração centrípeta
 
-\[
+$$
 \omega = \frac{\Delta \theta}{\Delta t}
-\]
+$$
 
 Aceleração centrípeta:
-\[
+$$
 a_c = \frac{v^2}{r}
-\]
+$$
 
 Força responsável não é analisada (pois é estática da dinâmica).
 
@@ -139,24 +139,24 @@ Se o vetor muda de direção, há **aceleração**, mesmo que o módulo seja con
 
 ## 7. Movimento Oblíquo (Lançamento de Projéteis)
 Componente horizontal:
-\[
+$$
 v_x = v_0 \cos\theta \quad (\text{constante})
-\]
+$$
 
 Componente vertical:
-\[
+$$
 v_y = v_0 \sin\theta - gt
-\]
+$$
 
 Altura máxima:
-\[
+$$
 h = \frac{(v_0 \sin\theta)^2}{2g}
-\]
+$$
 
 Alcance:
-\[
+$$
 A = \frac{v_0^2 \sin(2\theta)}{g}
-\]
+$$
 
 ---
 
@@ -179,9 +179,9 @@ Ex.:
 | deslocamento | m |
 
 Conversão:
-\[
+$$
 1\,\text{m/s} = 3{,}6\,\text{km/h}
-\]
+$$
 
 ---
 

@@ -14,40 +14,40 @@ Medida da **energia cinética média das partículas**.
   - Kelvin (K)
   - Fahrenheit (°F)
 - Conversão:
-\[
+$$
 T(K) = T(°C) + 273,15
-\]
+$$
 
 ---
 
 ## 3. Dilatação térmica
 ### 3.1. Linear
-\[
+$$
 \Delta L = L_0 \alpha \Delta T
-\]
+$$
 
 - \(L_0\) = comprimento inicial  
 - \(\alpha\) = coeficiente de dilatação linear  
 - \(\Delta T\) = variação de temperatura
 
 ### 3.2. Superficial
-\[
+$$
 \Delta A = A_0 \beta \Delta T \quad (\beta \approx 2\alpha)
-\]
+$$
 
 ### 3.3. Volumétrica
-\[
+$$
 \Delta V = V_0 \gamma \Delta T \quad (\gamma \approx 3\alpha)
-\]
+$$
 
 ---
 
 ## 4. Calor
 Energia **transferida devido a diferença de temperatura**.
 
-\[
+$$
 Q = mc\Delta T
-\]
+$$
 
 - \(m\) = massa  
 - \(c\) = calor específico  
@@ -59,9 +59,9 @@ Q = mc\Delta T
 
 ## 5. Mudança de fase
 Quando a substância muda de estado:
-\[
+$$
 Q = mL
-\]
+$$
 
 - \(L\) = calor latente
   - fusão
@@ -94,16 +94,16 @@ Dois corpos em contato trocam calor até **temperatura uniforme**.
 
 ## 9. Lei de resfriamento de Newton
 Taxa de perda de calor proporcional à diferença de temperatura:
-\[
+$$
 \frac{dQ}{dt} \propto (T - T_{amb})
-\]
+$$
 
 ---
 
 ## 10. Energia interna
-\[
+$$
 U = \sum E_{cinética} + \sum E_{potencial}
-\]
+$$
 
 - Energia total das partículas de um corpo
 - Base para **termodinâmica**

@@ -18,9 +18,9 @@ Eletricidade é o estudo da **interação entre cargas elétricas**, envolvendo:
 
 ### Lei de Coulomb
 Força entre duas cargas pontuais:
-\[
+$$
 F = k \frac{|q_1 q_2|}{r^2}
-\]
+$$
 
 - \(k \approx 9 \times 10^9 \, N\cdot m^2/C^2\)  
 - \(r\) = distância entre cargas  
@@ -30,9 +30,9 @@ F = k \frac{|q_1 q_2|}{r^2}
 
 ## 3. Corrente Elétrica
 Fluxo de cargas elétricas:
-\[
+$$
 I = \frac{Q}{t}
-\]
+$$
 
 - \(I\) = corrente (A)  
 - \(Q\) = carga (C)  
@@ -44,9 +44,9 @@ Direção convencional: do **polo positivo para o negativo**.
 
 ## 4. Tensão (Diferença de Potencial)
 Energia por unidade de carga:
-\[
+$$
 V = \frac{W}{Q}
-\]
+$$
 
 - \(V\) = volts (V)  
 - \(W\) = trabalho realizado (J)  
@@ -56,9 +56,9 @@ V = \frac{W}{Q}
 
 ## 5. Resistência Elétrica
 Oposição à passagem da corrente:
-\[
+$$
 R = \frac{V}{I}
-\]
+$$
 
 - Lei de Ohm: \(V = R \cdot I\)  
 - Unidade: Ohm (Ω)  
@@ -68,22 +68,22 @@ R = \frac{V}{I}
 
 ## 6. Associação de Resistores
 ### Série:
-\[
+$$
 R_{eq} = R_1 + R_2 + R_3 + \dots
-\]
+$$
 
 ### Paralelo:
-\[
+$$
 \frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots
-\]
+$$
 
 ---
 
 ## 7. Potência Elétrica
 Energia por unidade de tempo:
-\[
+$$
 P = V \cdot I = R \cdot I^2 = \frac{V^2}{R}
-\]
+$$
 
 - Unidade: Watt (W)
 
@@ -91,9 +91,9 @@ P = V \cdot I = R \cdot I^2 = \frac{V^2}{R}
 
 ## 8. Energia Elétrica
 Energia consumida ou fornecida:
-\[
+$$
 E = P \cdot t
-\]
+$$
 
 - Unidade: Joule (J)  
 - Em residências, usualmente em kWh
@@ -102,9 +102,9 @@ E = P \cdot t
 
 ## 9. Campo Elétrico
 Força por unidade de carga:
-\[
+$$
 E = \frac{F}{q} = k \frac{Q}{r^2}
-\]
+$$
 
 - \(E\) = vetor do campo (N/C)  
 - Direção: mesma da força sobre carga positiva

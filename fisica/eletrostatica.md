@@ -15,9 +15,9 @@ Eletrostática estuda **cargas elétricas em repouso** e as **forças que elas e
 ## 3. Lei de Coulomb
 Força entre duas cargas puntiformes:
 
-\[
+$$
 F = k \frac{|q_1 q_2|}{r^2}
-\]
+$$
 
 - \(F\) = força (N)  
 - \(q_1, q_2\) = cargas (C)  
@@ -29,9 +29,9 @@ F = k \frac{|q_1 q_2|}{r^2}
 ## 4. Campo Elétrico
 Região ao redor de uma carga onde **outras cargas sofrem força**:
 
-\[
+$$
 \vec{E} = \frac{\vec{F}}{q} = k \frac{Q}{r^2} \hat{r}
-\]
+$$
 
 - Vetorial, direção da força sobre carga positiva  
 - Unidade: N/C
@@ -41,9 +41,9 @@ Região ao redor de uma carga onde **outras cargas sofrem força**:
 ## 5. Potencial Elétrico
 Energia elétrica por unidade de carga:
 
-\[
+$$
 V = \frac{U}{q} = k \frac{Q}{r}
-\]
+$$
 
 - Unidade: Volt (V)  
 - Trabalho para mover uma carga no campo elétrico
@@ -51,9 +51,9 @@ V = \frac{U}{q} = k \frac{Q}{r}
 ---
 
 ## 6. Diferença de Potencial
-\[
+$$
 \Delta V = V_B - V_A = \frac{W_{AB}}{q}
-\]
+$$
 
 - Trabalho necessário para mover a carga entre pontos A e B
 
@@ -66,9 +66,9 @@ V = \frac{U}{q} = k \frac{Q}{r}
 ---
 
 ## 8. Energia Potencial Elétrica
-\[
+$$
 U = k \frac{q_1 q_2}{r}
-\]
+$$
 
 - Depende da posição das cargas  
 - Energia armazenada pelo sistema de cargas

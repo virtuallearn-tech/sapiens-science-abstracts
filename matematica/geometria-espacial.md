@@ -10,39 +10,39 @@ Geometria Espacial estuda **figuras tridimensionais**, analisando **volumes, ár
 ## 2. Poliedros
 - Figuras com **faces planas**  
 - Relação de Euler para poliedros convexos:  
-\[
+$$
 V - A + F = 2
-\]  
+$$  
 - \(V\) = vértices, \(A\) = arestas, \(F\) = faces
 
 ---
 
 ## 3. Prismas e Pirâmides
 - **Volume do prisma:**  
-\[
+$$
 V = A_b \cdot h
-\]  
+$$  
 - **Volume da pirâmide:**  
-\[
+$$
 V = \frac{1}{3} A_b \cdot h
-\]  
+$$  
 - \(A_b\) → área da base, \(h\) → altura
 
 ---
 
 ## 4. Cilindro, Cone e Esfera
 - **Cilindro:**  
-\[
+$$
 V = \pi r^2 h, \quad A = 2\pi r (r + h)
-\]  
+$$  
 - **Cone:**  
-\[
+$$
 V = \frac{1}{3}\pi r^2 h, \quad A = \pi r (r + g)
-\]  
+$$  
 - **Esfera:**  
-\[
+$$
 V = \frac{4}{3}\pi r^3, \quad A = 4 \pi r^2
-\]  
+$$  
 - \(r\) → raio, \(h\) → altura, \(g\) → geratriz
 
 ---

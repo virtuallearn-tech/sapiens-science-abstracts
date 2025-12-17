@@ -9,9 +9,9 @@ O estudo de **trabalho e energia** mostra como as forças causam mudanças no mo
 
 O **trabalho (W)** mede a **transferência de energia** feita por uma força ao mover um corpo.
 
-\[
+$$
 W = F \cdot d \cdot \cos\theta
-\]
+$$
 
 Onde:
 - \(F\) = força aplicada
@@ -37,9 +37,9 @@ Unidade no SI: **Joule (J)**
 Energia é a **capacidade de realizar trabalho**.
 
 ## 2.1. Energia Cinética — Energia do Movimento
-\[
+$$
 E_c = \frac{mv^2}{2}
-\]
+$$
 
 Depende **do quadrado da velocidade** — pequena variação em \(v\) causa grande variação em energia.
 
@@ -48,9 +48,9 @@ Depende **do quadrado da velocidade** — pequena variação em \(v\) causa gran
 ## 2.2. Energia Potencial Gravitacional
 Relacionada à altura:
 
-\[
+$$
 E_p = mgh
-\]
+$$
 
 Quanto maior a altura, maior a energia.
 
@@ -59,9 +59,9 @@ Quanto maior a altura, maior a energia.
 ## 2.3. Energia Potencial Elástica
 Relacionada ao alongamento de molas:
 
-\[
+$$
 E_e = \frac{kx^2}{2}
-\]
+$$
 
 ---
 
@@ -69,9 +69,9 @@ E_e = \frac{kx^2}{2}
 
 O trabalho da força resultante **altera a energia cinética**:
 
-\[
+$$
 W_R = \Delta E_c = E_{c,f} - E_{c,i}
-\]
+$$
 
 Se o trabalho é positivo → **ganho de energia cinética** (corpo acelera).  
 Se negativo → **perda de energia cinética**.
@@ -82,9 +82,9 @@ Se negativo → **perda de energia cinética**.
 
 Se **não houver forças dissipativas** (como o atrito):
 
-\[
+$$
 E_m = E_c + E_p = \text{constante}
-\]
+$$
 
 Exemplo: queda livre
 - no topo → só energia potencial
@@ -99,14 +99,14 @@ Com atrito → parte da energia vira **calor e deformações**.
 
 Indica **a rapidez com que o trabalho é realizado**:
 
-\[
+$$
 P = \frac{W}{\Delta t}
-\]
+$$
 
 Potência instantânea:
-\[
+$$
 P = F \cdot v
-\]
+$$
 
 Unidade: **Watt (W)**.
 
@@ -116,9 +116,9 @@ Unidade: **Watt (W)**.
 
 Deslocamento vertical:
 
-\[
+$$
 W_{peso} = mg(h_i - h_f)
-\]
+$$
 
 - descendo → trabalho **positivo**
 - subindo → **negativo**
@@ -128,9 +128,9 @@ W_{peso} = mg(h_i - h_f)
 # 7. Atrito e Trabalho
 
 Como se opõe ao movimento:
-\[
+$$
 W_{atrito} = - f \cdot d
-\]
+$$
 
 Sempre diminui energia mecânica.
 
@@ -138,9 +138,9 @@ Sempre diminui energia mecânica.
 
 # 8. Trabalho da Força Elástica
 
-\[
+$$
 W_e = -\frac{kx^2}{2}
-\]
+$$
 
 O sinal negativo indica que a mola **resiste ao movimento**.
 

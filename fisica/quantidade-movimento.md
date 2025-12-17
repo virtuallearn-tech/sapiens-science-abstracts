@@ -9,16 +9,16 @@ A **quantidade de movimento**, ou **momento linear**, descreve o “estado de mo
 
 É o produto da **massa pela velocidade**:
 
-\[
+$$
 \vec{p} = m \cdot \vec{v}
-\]
+$$
 
 - é uma **grandeza vetorial**
 - muda se **a velocidade muda**
 - unidade no SI:  
-\[
+$$
 [ \vec{p} ] = kg \cdot m/s
-\]
+$$
 
 **Interpretando:**  
 corpos **mais massivos** ou **mais rápidos** têm **maior quantidade de movimento**.
@@ -29,15 +29,15 @@ corpos **mais massivos** ou **mais rápidos** têm **maior quantidade de movimen
 
 O **impulso (I)** mede a **mudança na quantidade de movimento**.
 
-\[
+$$
 \vec{I} = \vec{F} \cdot \Delta t
-\]
+$$
 
 E vale também:
 
-\[
+$$
 \vec{I} = \Delta \vec{p}
-\]
+$$
 
 Ou seja:
 
@@ -55,9 +55,9 @@ Unidade: \(N \cdot s\).
 
 A **área sob o gráfico** é o impulso:
 
-\[
+$$
 I = \text{área do gráfico } F \times t
-\]
+$$
 
 Muito cobrado no ENEM!
 
@@ -86,9 +86,9 @@ Mas **a quantidade de movimento SEMPRE se conserva** se o sistema for isolado.
 
 Em um sistema isolado:
 
-\[
+$$
 \sum \vec{p}_{\text{inicial}} = \sum \vec{p}_{\text{final}}
-\]
+$$
 
 Isso vale para:
 - armas (recuo)
@@ -102,9 +102,9 @@ Isso vale para:
 
 Se dois corpos colidem no mesmo eixo:
 
-\[
+$$
 m_1 v_1 + m_2 v_2 = m_1 v_1' + m_2 v_2'
-\]
+$$
 
 Muito aplicado em:
 - carros batendo
@@ -118,9 +118,9 @@ Muito aplicado em:
 Um projétil pequeno ganha velocidade alta;  
 a arma maior ganha velocidade baixa:
 
-\[
+$$
 m_{\text{projétil}} \cdot v_{\text{projétil}} = m_{\text{arma}} \cdot v_{\text{arma}}
-\]
+$$
 
 ---
 
@@ -128,9 +128,9 @@ m_{\text{projétil}} \cdot v_{\text{projétil}} = m_{\text{arma}} \cdot v_{\text
 
 Motores de foguete funcionam expulsando gases:
 
-\[
+$$
 m_g v_g = m_f v_f
-\]
+$$
 
 - gases vão para trás
 - foguete vai para frente
@@ -143,9 +143,9 @@ Sem precisar de ar → **funciona no espaço**.
 
 Se você conhece o impulso e o tempo da colisão:
 
-\[
+$$
 F_{\text{média}} = \frac{\Delta p}{\Delta t}
-\]
+$$
 
 Quanto **mais tempo durar o impacto**, **menor a força média** — conceito usado em:
 - airbag

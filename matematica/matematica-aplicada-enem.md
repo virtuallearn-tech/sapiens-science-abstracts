@@ -29,13 +29,13 @@ A Matemática no ENEM é **contextualizada**, aplicada a situações do cotidian
 
 ## 4. Exemplos de Aplicação
 1. **Juros Compostos:**  
-\[
+$$
 M = P \cdot (1 + i)^t
-\]  
+$$  
 2. **Escala de mapa:**  
-\[
+$$
 \text{Distância real} = \text{distância no mapa} \cdot \text{escala}
-\]  
+$$  
 3. **Análise de gráfico:** interpretar tendências, proporções e variações
 
 ---

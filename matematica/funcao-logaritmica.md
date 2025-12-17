@@ -3,16 +3,16 @@
 ## 1. Conceito
 Função logarítmica é a **função inversa da função exponencial**:
 
-\[
+$$
 f(x) = \log_a(x), \quad a > 0, \, a \neq 1, \, x > 0
-\]
+$$
 
 - \(a\) → base do logaritmo  
 - \(x\) → argumento do logaritmo  
 - Relação com exponencial:  
-\[
+$$
 y = \log_a(x) \iff a^y = x
-\]
+$$
 
 ---
 
@@ -26,34 +26,34 @@ y = \log_a(x) \iff a^y = x
 
 ## 3. Propriedades dos Logaritmos
 1. Logaritmo do produto:  
-\[
+$$
 \log_a(x \cdot y) = \log_a(x) + \log_a(y)
-\]
+$$
 
 2. Logaritmo do quociente:  
-\[
+$$
 \log_a\left(\frac{x}{y}\right) = \log_a(x) - \log_a(y)
-\]
+$$
 
 3. Logaritmo da potência:  
-\[
+$$
 \log_a(x^n) = n \cdot \log_a(x)
-\]
+$$
 
 4. Logaritmo da base:  
-\[
+$$
 \log_a(a) = 1
-\]
+$$
 
 5. Logaritmo de 1:  
-\[
+$$
 \log_a(1) = 0
-\]
+$$
 
 6. Mudança de base:  
-\[
+$$
 \log_a(x) = \frac{\log_b(x)}{\log_b(a)}, \quad a,b>0, a\neq 1, b\neq 1
-\]
+$$
 
 ---
 

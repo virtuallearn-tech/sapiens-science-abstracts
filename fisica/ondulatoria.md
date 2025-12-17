@@ -32,9 +32,9 @@ Ondulatória é a área da física que estuda **ondas e vibrações**, responsá
 | Amplitude | \(A\) | m |
 
 Relação entre velocidade, frequência e comprimento:
-\[
+$$
 v = \lambda \cdot f
-\]
+$$
 
 ---
 
@@ -52,14 +52,14 @@ Velocidade aproximada no ar: 340 m/s (20 °C)
 
 ## 5. Reflexão e Refração
 - **Reflexão:** onda retorna (eco, espelho de água)  
-\[
+$$
 \theta_i = \theta_r
-\]
+$$
 
 - **Refração:** mudança de meio → mudança de velocidade e comprimento  
-\[
+$$
 \frac{\sin i}{\sin r} = \frac{v_1}{v_2}
-\]
+$$
 
 ---
 
@@ -77,23 +77,23 @@ Velocidade aproximada no ar: 340 m/s (20 °C)
 
 ## 8. Intensidade e Nível Sonoro
 Intensidade:
-\[
+$$
 I = \frac{P}{A} \quad (\text{W/m²})
-\]
+$$
 
 Nível sonoro (decibéis):
-\[
+$$
 \beta = 10 \log_{10} \frac{I}{I_0} \quad \text{dB}, \quad I_0 = 10^{-12} \text{W/m²}
-\]
+$$
 
 ---
 
 ## 9. Efeito Doppler
 Mudança aparente de frequência quando há movimento relativo entre fonte e observador:
 
-\[
+$$
 f' = f \frac{v \pm v_o}{v \mp v_f}
-\]
+$$
 
 - \(v\) = velocidade do som no meio  
 - \(v_o\) = velocidade do observador  

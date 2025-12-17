@@ -3,9 +3,9 @@
 ## 1. Conceito
 Equações de segundo grau são **igualdades em que a variável aparece elevada ao quadrado**, na forma geral:
 
-\[
+$$
 ax^2 + bx + c = 0, \quad a \neq 0
-\]
+$$
 
 - \(a, b, c\) são coeficientes reais
 
@@ -14,9 +14,9 @@ ax^2 + bx + c = 0, \quad a \neq 0
 ## 2. Fórmula de Bhaskara
 A solução é dada por:
 
-\[
+$$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\]
+$$
 
 - \(\Delta = b^2 - 4ac\) → **discriminante**, indica o tipo de raízes:
   - \(\Delta > 0\) → duas raízes reais e distintas  
@@ -27,9 +27,9 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 
 ## 3. Fatoração
 - Quando possível, escrever como produto de fatores lineares:  
-\[
+$$
 ax^2 + bx + c = a(x - x_1)(x - x_2)
-\]  
+$$  
 - Útil para resolver rapidamente e analisar gráfico da parábola
 
 ---
@@ -37,15 +37,15 @@ ax^2 + bx + c = a(x - x_1)(x - x_2)
 ## 4. Completamento do Quadrado
 - Transformar equação para a forma \((x + p)^2 = q\):
 
-\[
+$$
 ax^2 + bx + c = 0 \Rightarrow x^2 + \frac{b}{a}x + \frac{c}{a} = 0
-\]
-\[
+$$
+$$
 x^2 + \frac{b}{a}x = -\frac{c}{a} \Rightarrow x^2 + \frac{b}{a}x + \left(\frac{b}{2a}\right)^2 = -\frac{c}{a} + \left(\frac{b}{2a}\right)^2
-\]
-\[
+$$
+$$
 \left(x + \frac{b}{2a}\right)^2 = \frac{b^2 - 4ac}{4a^2} \Rightarrow x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-\]
+$$
 
 ---
 

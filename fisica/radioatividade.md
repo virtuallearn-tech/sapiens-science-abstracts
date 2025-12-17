@@ -25,28 +25,28 @@ Radioatividade é o **processo de emissão de partículas ou radiação** por n�
 
 ## 3. Equações de decaimento
 ### 3.1. Alfa
-\[
+$$
 ^{A}_{Z}X \rightarrow ^{A-4}_{Z-2}Y + \alpha
-\]
+$$
 
 ### 3.2. Beta
-\[
+$$
 ^{A}_{Z}X \rightarrow ^{A}_{Z+1}Y + \beta^- + \bar{\nu}_e
-\]
+$$
 
 ### 3.3. Gama
-\[
+$$
 ^{A}_{Z}X^* \rightarrow ^{A}_{Z}X + \gamma
-\]
+$$
 
 ---
 
 ## 4. Meia-vida (T₁/₂)
 Tempo para **metade dos núcleos se desintegrar**:
 
-\[
+$$
 N = N_0 \cdot \left( \frac{1}{2} \right)^{t/T_{1/2}}
-\]
+$$
 
 - \(N_0\) = núcleos iniciais  
 - \(N\) = núcleos restantes  
@@ -58,9 +58,9 @@ N = N_0 \cdot \left( \frac{1}{2} \right)^{t/T_{1/2}}
 ## 5. Atividade radioativa
 Número de desintegrações por segundo:
 
-\[
+$$
 A = \lambda N
-\]
+$$
 
 - \(\lambda\) = constante de decaimento  
 - Unidade: Becquerel (Bq)

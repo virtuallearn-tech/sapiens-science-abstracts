@@ -18,18 +18,18 @@ Um **circuito elétrico** é um caminho fechado onde **cargas elétricas** se mo
 - **Corrente contínua (CC):** direção constante (bateria)  
 - **Corrente alternada (CA):** direção e intensidade variam periodicamente (rede elétrica)
 
-\[
+$$
 I = \frac{Q}{t}
-\]
+$$
 
 ---
 
 ## 4. Tensão Elétrica
 Diferença de potencial entre dois pontos do circuito:
 
-\[
+$$
 V = \frac{W}{Q}
-\]
+$$
 
 - É o "empurrão" que faz os elétrons se moverem
 
@@ -38,9 +38,9 @@ V = \frac{W}{Q}
 ## 5. Resistência
 Oposição ao fluxo de corrente:
 
-\[
+$$
 R = \frac{V}{I} \quad (\text{Lei de Ohm})
-\]
+$$
 
 - Série: \(R_{eq} = R_1 + R_2 + \dots\)  
 - Paralelo: \(\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots\)
@@ -56,9 +56,9 @@ R = \frac{V}{I} \quad (\text{Lei de Ohm})
 ## 7. Potência Elétrica
 Energia fornecida por unidade de tempo:
 
-\[
+$$
 P = V \cdot I = R \cdot I^2 = \frac{V^2}{R}
-\]
+$$
 
 - Unidade: Watt (W)
 
@@ -67,9 +67,9 @@ P = V \cdot I = R \cdot I^2 = \frac{V^2}{R}
 ## 8. Energia Elétrica
 Energia consumida pelos aparelhos:
 
-\[
+$$
 E = P \cdot t
-\]
+$$
 
 - Unidade: Joule (J) ou kWh em residências
 
@@ -78,15 +78,15 @@ E = P \cdot t
 ## 9. Leis de Kirchhoff
 ### 9.1. Lei das Correntes (1ª Lei)
 A soma algébrica das correntes em um nó é zero:
-\[
+$$
 \sum I_{\text{entrando}} = \sum I_{\text{saindo}}
-\]
+$$
 
 ### 9.2. Lei das Tensões (2ª Lei)
 A soma algébrica das tensões em uma malha é zero:
-\[
+$$
 \sum V = 0
-\]
+$$
 
 ---
 

@@ -14,9 +14,9 @@ Região onde uma **carga em movimento** sofre força magnética.
 ---
 
 ## 3. Força sobre uma carga em movimento
-\[
+$$
 \vec{F} = q \, \vec{v} \times \vec{B}
-\]
+$$
 
 - \(q\) = carga (C)  
 - \(\vec{v}\) = velocidade (m/s)  
@@ -28,9 +28,9 @@ Região onde uma **carga em movimento** sofre força magnética.
 ## 4. Lei de Ampère
 Corrente elétrica gera campo magnético ao redor do condutor:
 
-\[
+$$
 \oint \vec{B} \cdot d\vec{l} = \mu_0 I
-\]
+$$
 
 - \(\mu_0 = 4\pi \times 10^{-7} \, T·m/A\)
 
@@ -41,18 +41,18 @@ Dois condutores paralelos com corrente:
 
 - Mesma direção → atraem  
 - Direção oposta → repelem  
-\[
+$$
 F \propto I_1 I_2 / d
-\]
+$$
 
 ---
 
 ## 6. Lei de Faraday da Indução
 Variação do fluxo magnético gera **tensão induzida**:
 
-\[
+$$
 \varepsilon = - \frac{d\Phi_B}{dt}
-\]
+$$
 
 - \(\Phi_B = B \cdot A \cdot \cos \theta\)  
 - Base para **geradores e transformadores**
@@ -62,18 +62,18 @@ Variação do fluxo magnético gera **tensão induzida**:
 ## 7. Lei de Lenz
 O sentido da corrente induzida **opõe-se à variação do fluxo**.
 
-\[
+$$
 \varepsilon \propto -\frac{d\Phi_B}{dt}
-\]
+$$
 
 - Conserva **energia e princípio da ação-reação**
 
 ---
 
 ## 8. Força magnética em fio retilíneo
-\[
+$$
 \vec{F} = I \, \vec{L} \times \vec{B}
-\]
+$$
 
 - \(I\) = corrente no fio  
 - \(L\) = comprimento do fio dentro do campo  

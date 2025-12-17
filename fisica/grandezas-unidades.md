@@ -5,14 +5,14 @@ Grandezas físicas são propriedades dos fenômenos naturais que podem ser **med
 Exemplos: comprimento, massa, temperatura, tempo, velocidade.
 
 Uma grandeza física sempre é expressa no formato:
-\[
+$$
 \text{Grandeza} = \text{valor numérico} + \text{unidade}
-\]
+$$
 
 Exemplo:
-\[
+$$
 5\,\text{m} \quad (\text{cinco metros})
-\]
+$$
 
 ---
 
@@ -58,9 +58,9 @@ São determinadas por:
 Ex.: deslocamento, velocidade vetorial, força.
 
 Representação vetorial:
-\[
+$$
 \vec{v} = 20\,\text{m/s}, \text{ direção horizontal, sentido para direita}
-\]
+$$
 
 ---
 
@@ -77,9 +77,9 @@ Representação vetorial:
 | pico | p | \(10^{-12}\) |
 
 Exemplo:
-\[
+$$
 1\,\text{km} = 1 \times 10^3\,\text{m}
-\]
+$$
 
 ---
 
@@ -100,17 +100,17 @@ Ex.:
 Se baseia em **proporção e potência de 10**.
 
 Exemplo:
-\[
+$$
 1\,\text{h} = 3600\,\text{s}
-\]
-\[
+$$
+$$
 72\,\text{km/h} = 20\,\text{m/s}
-\]
+$$
 
 Conversão de km/h para m/s:
-\[
+$$
 \text{m/s} = \frac{\text{km/h}}{3{,}6}
-\]
+$$
 
 ---
 
@@ -124,9 +124,9 @@ Causa fixa (falha no instrumento, calibração ruim).
 Variação natural das medições.
 
 Valor mais confiável:
-\[
+$$
 \bar{x} = \frac{x_1 + x_2 + \dots + x_n}{n}
-\]
+$$
 
 ---
 

@@ -3,9 +3,9 @@
 ## 1. Conceito
 Função afim é uma função polinomial de **primeiro grau** da forma:
 
-\[
+$$
 f(x) = ax + b, \quad a \neq 0
-\]
+$$
 
 - \(a\) → coeficiente angular (inclinação)  
 - \(b\) → coeficiente linear (intercepto com eixo \(y\))  
@@ -24,9 +24,9 @@ f(x) = ax + b, \quad a \neq 0
 
 ## 3. Coeficiente Angular (\(a\))
 - Indica **inclinação da reta**: quanto a função sobe ou desce ao aumentar 1 unidade em \(x\)  
-\[
+$$
 a = \frac{\Delta y}{\Delta x} = \frac{y_2 - y_1}{x_2 - x_1}
-\]
+$$
 
 ---
 

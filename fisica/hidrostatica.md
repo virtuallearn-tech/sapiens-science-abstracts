@@ -11,9 +11,9 @@ Hidrostática é a área da física que estuda **fluidos em repouso**, analisand
 ---
 
 ## 2. Densidade e massa específica
-\[
+$$
 d = \frac{m}{V}
-\]
+$$
 
 Unidade: **kg/m³**  
 Água: **\(1000 \, kg/m^3\)**
@@ -21,9 +21,9 @@ Unidade: **kg/m³**
 ---
 
 ## 3. Pressão
-\[
+$$
 p = \frac{F}{A}
-\]
+$$
 
 Unidade: Pascal (Pa)
 
@@ -32,9 +32,9 @@ A pressão **aumenta com a profundidade** em um fluido.
 ---
 
 ## 4. Pressão hidrostática
-\[
+$$
 p = dgh
-\]
+$$
 
 Onde:
 - \(d\) = densidade do fluido
@@ -42,9 +42,9 @@ Onde:
 - \(h\) = profundidade
 
 Pressão total num ponto:
-\[
+$$
 p_{total} = p_{atm} + dgh
-\]
+$$
 
 ---
 
@@ -66,9 +66,9 @@ Dois recipientes conectados contendo o **mesmo fluido** atingem **o mesmo nível
 ## 7. Princípio de Arquimedes (Empuxo)
 Todo corpo imerso em um fluido sofre uma força vertical para cima, de intensidade:
 
-\[
+$$
 E = d_{fluido} \cdot g \cdot V_{deslocado}
-\]
+$$
 
 - Se **E > peso**, o corpo **flutua**.
 - Se **E < peso**, o corpo **afunda**.
@@ -77,9 +77,9 @@ E = d_{fluido} \cdot g \cdot V_{deslocado}
 ---
 
 ## 8. Peso aparente
-\[
+$$
 P_{aparente} = P - E
-\]
+$$
 
 Explica:
 - redução do peso na água
@@ -90,9 +90,9 @@ Explica:
 
 ## 9. Empuxo e densidade relativa
 - Se o corpo flutua:  
-  \[
+  $$
   \frac{V_{imerso}}{V_{total}} = \frac{d_{corpo}}{d_{fluido}}
-  \]
+  $$
 
 Ex.: gelo (0,92) na água → **92% submerso**.
 

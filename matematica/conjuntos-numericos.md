@@ -7,27 +7,27 @@ Conjuntos numéricos são **grupos de números** com propriedades semelhantes, u
 
 ## 2. Conjunto dos Naturais (\(\mathbb{N}\))
 - Números **inteiros não-negativos**:  
-\[
+$$
 \mathbb{N} = \{0, 1, 2, 3, \dots\}
-\]  
+$$  
 - Usos: contagem, enumeração
 
 ---
 
 ## 3. Conjunto dos Inteiros (\(\mathbb{Z}\))
 - Números **inteiros positivos e negativos**:  
-\[
+$$
 \mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}
-\]  
+$$  
 - Usos: balanços, temperaturas, dívidas
 
 ---
 
 ## 4. Conjunto dos Racionais (\(\mathbb{Q}\))
 - Números que podem ser **escritos como fração** \(p/q\), \(q \neq 0\)  
-\[
+$$
 \mathbb{Q} = \left\{ \frac{p}{q} \mid p \in \mathbb{Z}, q \in \mathbb{Z}^* \right\}
-\]  
+$$  
 - Inclui frações decimais finitas e periódicas
 
 ---
@@ -41,9 +41,9 @@ Conjuntos numéricos são **grupos de números** com propriedades semelhantes, u
 
 ## 6. Conjunto dos Reais (\(\mathbb{R}\))
 - União dos racionais e irracionais:  
-\[
+$$
 \mathbb{R} = \mathbb{Q} \cup \mathbb{I}
-\]  
+$$  
 - Inclui todos os números na reta numérica
 
 ---
@@ -56,9 +56,9 @@ Conjuntos numéricos são **grupos de números** com propriedades semelhantes, u
 ---
 
 ## 8. Relações entre os Conjuntos
-\[
+$$
 \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}
-\]
+$$
 
 ---
 
