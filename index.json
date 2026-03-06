@@ -1,0 +1,9 @@
+{
+  "disciplinas": [
+    {
+      "id": "biologia",
+      "titulo": "Biologia",
+      "arquivo": "biologia/biologia.json"
+    }
+  ]
+}

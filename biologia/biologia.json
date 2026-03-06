@@ -1,0 +1,325 @@
+{
+  "disciplina": "Biologia",
+  "modulos": [
+    {
+      "id": "mod1_origem_vida_e_evolucao",
+      "ordem": 1,
+      "titulo": "Origem da Vida e Evolução",
+      "descricao": "Estudo das hipóteses sobre a origem da vida e dos principais mecanismos da evolução biológica.",
+      "tags": [
+        "evolução",
+        "origem da vida",
+        "darwin",
+        "vestibular"
+      ],
+      "conteudos": [
+        {
+          "id": "origem_da_vida",
+          "ordem": 1,
+          "titulo": "Origem da Vida (Abiogênese e Biogênese)",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "origem da vida",
+            "abiogênese",
+            "biogênese"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/origem_da_vida.md"
+        },
+        {
+          "id": "teorias_evolutivas",
+          "ordem": 2,
+          "titulo": "Teorias Evolutivas (Darwin e Lamarck)",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "darwin",
+            "lamarck",
+            "evolução"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/teorias_evolutivas.md"
+        },
+        {
+          "id": "selecao_natural",
+          "ordem": 3,
+          "titulo": "Seleção Natural",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "evolução",
+            "seleção natural"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/selecao_natural.md"
+        },
+        {
+          "id": "deriva_genetica",
+          "ordem": 4,
+          "titulo": "Deriva Genética",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "genética",
+            "evolução"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/deriva_genetica.md"
+        },
+        {
+          "id": "especiacao",
+          "ordem": 5,
+          "titulo": "Especiação",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "evolução",
+            "biodiversidade"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/especiacao.md"
+        },
+        {
+          "id": "evidencias_evolucao",
+          "ordem": 6,
+          "titulo": "Evidências da Evolução",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "fósseis",
+            "evolução"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/evidencias_evolucao.md"
+        },
+        {
+          "id": "evolucao_humana",
+          "ordem": 7,
+          "titulo": "Evolução Humana",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "evolução humana"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/evolucao_humana.md"
+        },
+        {
+          "id": "evolucao_molecular",
+          "ordem": 8,
+          "titulo": "Evolução Molecular",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "DNA",
+            "evolução"
+          ],
+          "arquivo": "mod1_origem_vida_e_evolucao/evolucao_molecular.md"
+        }
+      ]
+    },
+    {
+      "id": "mod2_citologia",
+      "ordem": 2,
+      "titulo": "Citologia",
+      "descricao": "Estudo das células, suas estruturas, funcionamento e importância para os seres vivos.",
+      "tags": [
+        "citologia",
+        "célula",
+        "biologia celular"
+      ],
+      "conteudos": [
+        {
+          "id": "teoria_celular",
+          "ordem": 1,
+          "titulo": "Teoria Celular",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "célula"
+          ],
+          "arquivo": "mod2_citologia/1_teoria_celular.md"
+        },
+        {
+          "id": "tipos_celulares",
+          "ordem": 2,
+          "titulo": "Tipos de Células",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "célula",
+            "procariontes",
+            "eucariontes"
+          ],
+          "arquivo": "mod2_citologia/2_tipos_celulares.md"
+        },
+        {
+          "id": "membrana_plasmatica",
+          "ordem": 3,
+          "titulo": "Membrana Plasmática",
+          "tempo_estimado": "12 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "membrana",
+            "transporte celular"
+          ],
+          "arquivo": "mod2_citologia/3_membrana_plasmatica.md"
+        },
+        {
+          "id": "organelas_celulares",
+          "ordem": 4,
+          "titulo": "Organelas Celulares",
+          "tempo_estimado": "15 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "organelas",
+            "estrutura celular"
+          ],
+          "arquivo": "mod2_citologia/4_organelas_celulares.md"
+        },
+        {
+          "id": "transporte_membrana",
+          "ordem": 5,
+          "titulo": "Transporte pela Membrana",
+          "tempo_estimado": "12 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "membrana",
+            "transporte celular"
+          ],
+          "arquivo": "mod2_citologia/5_transporte_membrana.md"
+        },
+        {
+          "id": "metabolismo_celular",
+          "ordem": 6,
+          "titulo": "Metabolismo Celular",
+          "tempo_estimado": "12 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "metabolismo",
+            "enzimas"
+          ],
+          "arquivo": "mod2_citologia/6_metabolismo_celular.md"
+        },
+        {
+          "id": "fotossintese",
+          "ordem": 7,
+          "titulo": "Fotossíntese",
+          "tempo_estimado": "14 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "metabolismo",
+            "fotossíntese"
+          ],
+          "arquivo": "mod2_citologia/7_fotossintese.md"
+        },
+        {
+          "id": "respiracao_celular",
+          "ordem": 8,
+          "titulo": "Respiração Celular",
+          "tempo_estimado": "14 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "metabolismo",
+            "energia"
+          ],
+          "arquivo": "mod2_citologia/8_respiracao_celular.md"
+        },
+        {
+          "id": "fermentacao",
+          "ordem": 9,
+          "titulo": "Fermentação",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "metabolismo",
+            "energia"
+          ],
+          "arquivo": "mod2_citologia/9_fermentacao.md"
+        },
+        {
+          "id": "ciclo_celular",
+          "ordem": 10,
+          "titulo": "Ciclo Celular",
+          "tempo_estimado": "12 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "citologia",
+            "divisão celular"
+          ],
+          "arquivo": "mod2_citologia/10_ciclo_celular.md"
+        }
+      ]
+    },
+    {
+      "id": "mod3_divisao_celular",
+      "ordem": 3,
+      "titulo": "Divisão Celular",
+      "descricao": "Estudo dos processos de divisão celular, fundamentais para crescimento, reprodução, renovação dos tecidos e variabilidade genética.",
+      "tags": [
+        "divisão celular",
+        "mitose",
+        "meiose",
+        "genética"
+      ],
+      "conteudos": [
+        {
+          "id": "mitose",
+          "ordem": 1,
+          "titulo": "Mitose",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "divisão celular",
+            "mitose",
+            "reprodução celular"
+          ],
+          "arquivo": "mod3_divisao_celular/1_mitose.md"
+        },
+        {
+          "id": "meiose",
+          "ordem": 2,
+          "titulo": "Meiose",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "divisão celular",
+            "meiose",
+            "gametas",
+            "variabilidade genética"
+          ],
+          "arquivo": "mod3_divisao_celular/2_meiose.md"
+        },
+        {
+          "id": "controle_ciclo_celular",
+          "ordem": 3,
+          "titulo": "Controle do Ciclo Celular",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "ciclo celular",
+            "regulação celular",
+            "checkpoint"
+          ],
+          "arquivo": "mod3_divisao_celular/3_controle_ciclo_celular.md"
+        },
+        {
+          "id": "cancer_mutacoes_celulares",
+          "ordem": 4,
+          "titulo": "Câncer e Mutações Celulares",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "câncer",
+            "mutações",
+            "divisão celular"
+          ],
+          "arquivo": "mod3_divisao_celular/4_cancer_mutacoes_celulares.md"
+        }
+      ]
+    }
+  ]
+}
