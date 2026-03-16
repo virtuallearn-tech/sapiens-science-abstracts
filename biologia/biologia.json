@@ -320,6 +320,177 @@
           "arquivo": "mod3_divisao_celular/4_cancer_mutacoes_celulares.md"
         }
       ]
+    },
+    {
+      "id": "mod4_genetica",
+      "ordem": 4,
+      "titulo": "Genética",
+      "descricao": "Estudo da hereditariedade, dos mecanismos de transmissão das características genéticas e dos processos moleculares relacionados ao DNA.",
+      "tags": [
+        "genética",
+        "hereditariedade",
+        "dna",
+        "biologia molecular",
+        "vestibular"
+      ],
+      "conteudos": [
+        {
+          "id": "leis_de_mendel",
+          "ordem": 1,
+          "titulo": "Leis de Mendel",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "mendel",
+            "hereditariedade",
+            "genética clássica"
+          ],
+          "arquivo": "mod4_genetica/leis_de_mendel.md"
+        },
+        {
+          "id": "dominancia_e_codominancia",
+          "ordem": 2,
+          "titulo": "Dominância e Codominância",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "dominância",
+            "codominância",
+            "genética"
+          ],
+          "arquivo": "mod4_genetica/dominancia_e_codominancia.md"
+        },
+        {
+          "id": "heranca_ligada_ao_sexo",
+          "ordem": 3,
+          "titulo": "Herança Ligada ao Sexo",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "herança ligada ao sexo",
+            "cromossomos sexuais",
+            "genética"
+          ],
+          "arquivo": "mod4_genetica/heranca_ligada_ao_sexo.md"
+        },
+        {
+          "id": "grupos_sanguineos",
+          "ordem": 4,
+          "titulo": "Grupos Sanguíneos",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "grupos sanguíneos",
+            "sistema abo",
+            "fator rh"
+          ],
+          "arquivo": "mod4_genetica/grupos_sanguineos.md"
+        },
+        {
+          "id": "interacao_genica",
+          "ordem": 5,
+          "titulo": "Interação Gênica",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "interação gênica",
+            "epistasia",
+            "poligenia"
+          ],
+          "arquivo": "mod4_genetica/interacao_genica.md"
+        },
+        {
+          "id": "dna_e_rna",
+          "ordem": 6,
+          "titulo": "DNA e RNA",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "dna",
+            "rna",
+            "ácidos nucleicos"
+          ],
+          "arquivo": "mod4_genetica/dna_e_rna.md"
+        },
+        {
+          "id": "replicacao_do_dna",
+          "ordem": 7,
+          "titulo": "Replicação do DNA",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "replicação",
+            "dna",
+            "biologia molecular"
+          ],
+          "arquivo": "mod4_genetica/replicacao.md"
+        },
+        {
+          "id": "transcricao",
+          "ordem": 8,
+          "titulo": "Transcrição",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "transcrição",
+            "rna",
+            "expressão gênica"
+          ],
+          "arquivo": "mod4_genetica/transcricao.md"
+        },
+        {
+          "id": "traducao",
+          "ordem": 9,
+          "titulo": "Tradução (Síntese de Proteínas)",
+          "tempo_estimado": "10 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "tradução",
+            "síntese de proteínas",
+            "ribossomo"
+          ],
+          "arquivo": "mod4_genetica/traducao.md"
+        },
+        {
+          "id": "mutacao",
+          "ordem": 10,
+          "titulo": "Mutação",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "mutação",
+            "alteração genética",
+            "evolução"
+          ],
+          "arquivo": "mod4_genetica/mutacao.md"
+        },
+        {
+          "id": "engenharia_genetica",
+          "ordem": 11,
+          "titulo": "Engenharia Genética",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "engenharia genética",
+            "dna recombinante",
+            "transgênicos"
+          ],
+          "arquivo": "mod4_genetica/engenharia_genetica.md"
+        },
+        {
+          "id": "biotecnologia",
+          "ordem": 12,
+          "titulo": "Biotecnologia",
+          "tempo_estimado": "8 min",
+          "nivel": "ensino médio",
+          "tags": [
+            "biotecnologia",
+            "aplicações biológicas",
+            "tecnologia"
+          ],
+          "arquivo": "mod4_genetica/biotecnologia.md"
+        }
+      ]
     }
   ]
 }
